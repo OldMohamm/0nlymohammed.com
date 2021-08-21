@@ -8,7 +8,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Z0ldyck                          # the main title
+title: Meshal                         # the main title
 
 tagline: Hackthebox Vault # it will display as the sub-title
 
@@ -20,7 +20,7 @@ url: 'https://electronicbots.github.io'
 
 author: Z0ldyck                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/avatar.png   # support internet resources
 
 github:
   username: electronicbots             # change to your github username
