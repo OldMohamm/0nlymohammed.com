@@ -10,34 +10,34 @@
 
 title: Meshal                         # the main title
 
-tagline: Hackthebox Vault # it will display as the sub-title
+tagline: I know n0thing # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Blog de Ciberseguridad/Infosec | Writeups Máquinas de Hackthebox activas/retiradas | Red Teaming - Hacking
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://electronicbots.github.io'
+url: 'https://mesh3l911.github.io/'
 
 author: Z0ldyck                  # change to your full name
 
 avatar: /assets/img/sample/avatar.png   # support internet resources
 
 github:
-  username: electronicbots             # change to your github username
+  username: Mesh3l911             # change to your github username
 
 twitter:
-  username: electronicbots  # change to your twitter username
+  username: Mesh3l_911  # change to your twitter username
 
 social:
-  name: Z0ldyck                  # it will shows as the copyright owner in Footer
-  email: electronicbots@gmail.com             # change to your email address
+  name: Meshal                  # it will shows as the copyright owner in Footer
+  email: meshal202020@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/electronicbots      # change to your twitter homepage
-    - https://github.com/electronicbots       # change to your github homepage
+    - https://twitter.com/mesh3l_911      # change to your twitter homepage
+    - https://github.com/mesh3l911       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+     - https://linkedin.com/in/meshal-almansour
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
