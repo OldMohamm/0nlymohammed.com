@@ -18,7 +18,7 @@ description: >-                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://mesh3l911.github.io'
 
-author: Z0ldyck                  # change to your full name
+author: Meshal                  # change to your full name
 
 avatar: /assets/img/sample/avatar.png   # support internet resources
 
@@ -37,7 +37,7 @@ social:
     - https://github.com/mesh3l911       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/meshal-almansour
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
