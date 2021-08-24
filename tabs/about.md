@@ -16,9 +16,15 @@ I was acknowledged by listing my name in their HOF for finding a vulnerability i
 
 <br>
 <br>
-<i class="fab fa-linkedin"></i> <a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> 
+<i class="fab fa-linkedin"></i> <a href="https://support.apple.com/en-us/HT201536/">Meshal's Linkedin account</a> 
 <br>
-<i class="fab fa-youtube"></i> <a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> 
+<i class="fab fa-github"></i> <a href="https://support.apple.com/en-us/HT201536/">Meshal's Github account</a> 
+<br>
+<i class="fab fa-twitter"></i></i> <a href="https://support.apple.com/en-us/HT201536/">Meshal's Twitter account</a> 
+<br>
+<i class="fab fa-youtube"></i></i> <a href="https://support.apple.com/en-us/HT201536/">Meshal's YouTube channel</a> 
+<br>
+<i class="fab fa-medium"></i></i> <a href="https://support.apple.com/en-us/HT201536/">Meshal's Medium account</a> 
 
 <html>
 <head>
