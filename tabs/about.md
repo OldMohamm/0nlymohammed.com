@@ -9,8 +9,22 @@ title: About
 ---
 
 > **Note**: Add Markdown syntax content to file `tabs/about.md` and it will ````show```` `````up````` on ``this`` ```page```.
+ 
+> <html><body><b><p style="color:#A52A2A;font-size:25px">Acknowledgments</p></b></body></html>
 
-````show```` `````up````` on ``this`` ```page```
+
+ <ul><li><b>Apple Hall Of Fame ( HOF ):</b></li></ul>
+I was acknowledged by Apple company by listing my name in their HOF for finding a vulnerability in one of its acquisitions ( Swift ) which was regisred later on as ```CVE-2021-3138```<br>
+<a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> 
+<br>
+<ul><li><b>Apple Hall Of Fame ( HOF ):</b></li></ul>
+I was acknowledged by Apple company by listing my name in their HOF for finding a vulnerability in one of its acquisitions ( Swift ) which was regisred later on as ```CVE-2021-3138```<br>
+<a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> 
+<br>
+<ul><li><b>Apple Hall Of Fame ( HOF ):</b></li></ul>
+I was acknowledged by Apple company by listing my name in their HOF for finding a vulnerability in one of its acquisitions ( Swift ) which was regisred later on as ```CVE-2021-3138```<br>
+<a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> 
+
 
 <html>
 <head>
@@ -180,35 +194,4 @@ function showSlides(n) {
 
 </body>
 </html> 
-  
-  
-  
-  <p style="color:#A52A2A;font-size:30px"> Acknowledgments</p>
-  
-  >``` Acknowledgments ```
-
-  ``` Acknowledgments ```
-  
-  <h1>``` Acknowledgments ```</h1>
-  
-<br><br>
-<h1><p style="color:#A52A2A"> Acknowledgments
-</p></h1>
-
-  
-> <html><body><b><p style="color:#A52A2A;font-size:20px">Acknowledgments</p></b></body></html>
-
-
- <ul><li><b>Apple Hall Of Fame ( HOF ):</b></li></ul>
-I was acknowledged by Apple company by listing my name in their HOF for finding a vulnerability in one of its acquisitions ( Swift ) which was regisred later on as ```1-CVE-2021-3138```<br>
-<a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> 
-<br>
-<ul><li><b>Apple Hall Of Fame ( HOF ):</b></li></ul>
-I was acknowledged by Apple company by listing my name in their HOF for finding a vulnerability in one of its acquisitions ( Swift ) which was regisred later on as ```1-CVE-2021-3138```<br>
-<a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> 
-<br>
-<ul><li><b>Apple Hall Of Fame ( HOF ):</b></li></ul>
-I was acknowledged by Apple company by listing my name in their HOF for finding a vulnerability in one of its acquisitions ( Swift ) which was regisred later on as ```1-CVE-2021-3138```<br>
-<a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> 
-
 
