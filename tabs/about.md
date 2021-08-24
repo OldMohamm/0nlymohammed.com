@@ -33,23 +33,22 @@ ETS TOEFL ( Score: 71 )</ul>
 <ul><li><b>Sub_Analyser v1.0</b></li> <br>
 A tool that automates the process of testing web applications
 against Sub-Domain TakeOver vulnerabilities based on the CNAME
-DNS record<br>
+DNS record</ul>
 <ul><li><b>Shell Escaper v1.0</b></li> <br>
 A tool that automates the process of extracting the Shell Escape
 Sequences for Binaries with Setuid bit and Sudo out of GTFOBins
-with three differint ways both locally and remotely<br>
+with three differint ways both locally and remotely</ul>
 <ul><li><b>Redirecter v1.0</b></li> <br>
 A tool that automates the process of testing web applications
-against Open Redirection vulnerabilities<br>
+against Open Redirection vulnerabilities</ul>
 <ul><li><b>JS Scrapper v1.0</b></li> <br>
 A tool that automates the process of extracting JS files out of
-each URL provided within the provided urls list<br>
+each URL provided within the provided urls list</ul>
 <ul><li><b>SQLi_Checker v1.1</b></li> <br>
-A tool to automate the process of testing web applications against different SQLi types > Get method > based on (known) payloads list with more features than SQLi_Checker v1.0 such as (Testing By IP , dork or collected urls ) & 4 Types of Blind SQLi<br>
+A tool to automate the process of testing web applications against different SQLi types > Get method > based on (known) payloads list with more features than SQLi_Checker v1.0 such as (Testing By IP , dork or collected urls ) & 4 Types of Blind SQLi</ul>
 <ul><li><b>SQLi_Checker v1.0</b></li> <br>
-A tool to automate the process of testing web applications against different SQLi types > Get method > based on (known) payloads list<br>
+A tool to automate the process of testing web applications against different SQLi types > Get method > based on (known) payloads list</ul>
 
-<br>
 <br>
   
 > <html><body><b><p style="color:#A52A2A;font-size:25px">CVEs</p></b></body></html>
