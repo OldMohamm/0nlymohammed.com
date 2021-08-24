@@ -180,7 +180,7 @@ function showSlides(n) {
 </body>
 </html> 
   
-> **Acknowledgments**: 
+> <p style="color:#A52A2A"> **Acknowledgments**: </p>
 
 <br><br>
 <h1><p style="color:#A52A2A"> Acknowledgments
