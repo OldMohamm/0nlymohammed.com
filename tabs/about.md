@@ -19,8 +19,7 @@
 
  <br>
 <ul><i class="fab fa-linkedin"></i> <a href="https://support.apple.com/en-us/HT201536/"> Meshal's Linkedin account</a></ul>
-<br>
-<i class="fab fa-github"></i> <a href="https://support.apple.com/en-us/HT201536/"> Meshal's Github account</a> 
+<ul><i class="fab fa-github"></i> <a href="https://support.apple.com/en-us/HT201536/"> Meshal's Github account</a></ul> 
 <br>
 <i class="fab fa-twitter"></i> <a href="https://support.apple.com/en-us/HT201536/"> Meshal's Twitter account</a> 
 <br>
