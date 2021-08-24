@@ -202,6 +202,5 @@ function showSlides(n) {
  <li><b>Apple Hall Of Fame ( HOF ):</b></li>
 I was acknowledged by Apple company by listing my name in their HOF for finding a vulnerability in one of its acquisitions ( Swift )<br>
 
-https://support.apple.com/en-us/HT201536
-
+<a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> 
 
