@@ -1,8 +1,7 @@
 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Acknowledgments</p></b></body></html>
-<br>
 
- <ul><li><b>Apple Hall Of Fame ( HOF ):</b></li></ul>
+ <br><ul><li><b>Apple Hall Of Fame ( HOF ):</b></li></ul>
 I was acknowledged by listing my name in their HOF for finding a vulnerability in one of its acquisitions ( Swift ) which was later regisred as ```CVE-2021-3138```<br>
 <a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> 
 <br>
@@ -16,6 +15,7 @@ I was acknowledged by listing my name in their HOF for finding a vulnerability i
 
 <br>
 <br>
+<i class="fab fa-linkedin"></i>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
