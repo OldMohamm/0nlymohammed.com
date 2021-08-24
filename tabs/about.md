@@ -7,9 +7,9 @@
 > <html><body><b><p style="color:#A52A2A;font-size:25px">WORK EXPERIENCE:</p></b></body></html>
 
 <ul><li><b>Synack Red Team member</b></li> <br>
-Penetration Tester at Synack since (Jul,2021)(Part Time) </ul><br>
+Penetration Tester at Synack since (Jul,2021)(Part Time) </ul>
 <ul><li><b>Saudi Federation for Cybersecurity, Programming and Drones</b></li> <br>
-Penetration Tester since (Sep,2020) (Part Time)<br>
+Penetration Tester since (Sep,2020) (Part Time)<br></ul>
   
 <br>
 <br>
