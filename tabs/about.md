@@ -231,10 +231,10 @@ function showDivs(n) {
  Discourse 2.7.0 - Rate limit Bypass which leads to 2FA Bypass <br>
 <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3138/">CVE-2021-3138</a></ul>
 <ul><li><b>CVE-2021-31760:</b></li> <br>
-Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to get a Remote Command Execution (RCE) through the Webmin's running process feature
+Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to get a Remote Command Execution (RCE) through the Webmin's running process feature<br>
 <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31760/">CVE-2021-31760</a></ul>  
 <ul><li><b>CVE-2021-31761:</b></li> <br>
-Webmin 1.973 - Exploiting a Reflected Cross-Site Scripting (XSS) attack to get a Remote Command Execution (RCE) through the Webmin's running process feature
+Webmin 1.973 - Exploiting a Reflected Cross-Site Scripting (XSS) attack to get a Remote Command Execution (RCE) through the Webmin's running process feature<br>
 <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31761/">CVE-2021-31761</a></ul>
 <ul><li><b>CVE-2021-31762:</b></li> <br>
 Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a privileged user through the Webmin's add users feature then getting a reverse shell through the Webmin's running process feature <br>
