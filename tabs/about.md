@@ -190,7 +190,7 @@ function showSlides(n) {
 
   ``` Acknowledgments ```
   
-  ``` <h1>Acknowledgments</h1> ```
+  <h1>``` Acknowledgments ```</h1>
   
 <br><br>
 <h1><p style="color:#A52A2A"> Acknowledgments
