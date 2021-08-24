@@ -105,7 +105,6 @@ A tool to automate the process of testing web applications against different SQL
 <ul><li><b>SQLi_Checker v1.0</b></li> <br>
 A tool to automate the process of testing web applications against different SQLi types > Get method > based on (known) payloads list</ul>
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -183,26 +182,23 @@ img {vertical-align: middle;}
 </head>
 <body>
 
-<h2>Automatic Slideshow</h2>
-<p>Change image every 2 seconds:</p>
-
 <div class="slideshow-container">
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="/pics/ewptx.png" style="width:100%">
+  <img src="/pics/ksa.png" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="/pics/ksa.png" style="width:100%">
+  <img src="/pics/ewptx.png" style="width:100%">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="/pics/7rs.jpeg" style="width:100%">
+  <img src="/pics/ksa.png" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 
@@ -239,6 +235,7 @@ function showSlides() {
 
 </body>
 </html> 
+
 
 <br><br>
 > <html><body><b><p style="color:#A52A2A;font-size:25px">CVEs</p></b></body></html>
