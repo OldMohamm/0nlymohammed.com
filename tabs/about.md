@@ -177,6 +177,7 @@ function showSlides(n) {
 }
 </script>
 
+> **Acknowledgments**: 
 
 <br><br>
 <h1><p style="color:#A52A2A"> Acknowledgments
