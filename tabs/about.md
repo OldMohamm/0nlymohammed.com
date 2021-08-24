@@ -16,6 +16,7 @@ I was acknowledged by listing my name in their HOF for finding a vulnerability i
 <br>
 <br>
 <i class="fab fa-linkedin"></i> <a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> 
+<i class="fab fa-youtube"></i> <a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> 
 
 <html>
 <head>
