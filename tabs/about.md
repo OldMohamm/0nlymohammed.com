@@ -17,15 +17,11 @@
 <br>
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Contact</p></b></body></html>
 
- <br>
 <ul><i class="fab fa-linkedin"></i> <a href="https://support.apple.com/en-us/HT201536/"> Meshal's Linkedin account</a></ul>
 <ul><i class="fab fa-github"></i> <a href="https://support.apple.com/en-us/HT201536/"> Meshal's Github account</a></ul> 
-<br>
-<i class="fab fa-twitter"></i> <a href="https://support.apple.com/en-us/HT201536/"> Meshal's Twitter account</a> 
-<br>
-<i class="fab fa-youtube"></i> <a href="https://support.apple.com/en-us/HT201536/">Meshal's YouTube channel</a> 
-<br>
-<i class="fab fa-medium"></i> <a href="https://support.apple.com/en-us/HT201536/"> Meshal's Medium account</a> 
+<ul><i class="fab fa-twitter"></i> <a href="https://support.apple.com/en-us/HT201536/"> Meshal's Twitter account</a></ul>
+<ul><i class="fab fa-youtube"></i> <a href="https://support.apple.com/en-us/HT201536/">Meshal's YouTube channel</a></ul> 
+<ul><i class="fab fa-medium"></i> <a href="https://support.apple.com/en-us/HT201536/"> Meshal's Medium account</a></ul>
 
 <html>
 <head>
