@@ -90,19 +90,19 @@ Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a
 
 <ul><li><b>First place ( 1st ) in CyberTalents Saudi Arabia National CTF
 Qualification round 2020</b></li> <br>
-Individually<br>
+Individually</ul>
 <ul><li><b>First place ( 1st ) in Cyber Hub universities CTF 2020 with
 my team ( BloodHunters )</b></li> <br>
-Among ( more than 35 universities , 2000 students and 480 teams )<br>
+Among ( more than 35 universities , 2000 students and 480 teams )</ul>
 <ul><li><b>First place ( 1st ) in Cyber Hub universities CTF 2021 with
 my team ( BloodHunters )</b></li> <br>
-2nd version<br>
+2nd version</ul>
 <ul><li><b>First place ( 1st ) in CyberTalents Saudi Arabia National CTF
 in Finals with my team ( k$a )</b></li> <br>
 Got qualified for the Arab and Africa Regional CTF ( among more than 20
-countries )<br>
+countries )</ul>
   
-<br><br>
+<br>
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Contact</p></b></body></html>
 
 <ul><i class="fab fa-linkedin"></i> <a href="https://support.apple.com/en-us/HT201536/"> Meshal's Linkedin account</a></ul>
