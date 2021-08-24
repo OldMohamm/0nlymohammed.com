@@ -1,20 +1,20 @@
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Who Am i?</p></b></body></html>
 
-<p style="text-align: justify;"><b>Hello There ^_^ .In a few words, I'm Meshal AlMansour. A passionate Penetration Tester who's trying to impove his skills day by another</b></p>
+<b>Hello There ^_^ .In a few words, I'm Meshal AlMansour. A passionate Penetration Tester who's trying to impove his skills day by another</b>
 <br>
 <br>
 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Acknowledgments</p></b></body></html>
 
  <br>
- <ul><li><b>Apple Hall Of Fame ( ```CVE-2021-3138``` ):</b></li></ul>
-<a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> 
+ <ul><li><b>Apple Hall Of Fame ( </b></li></ul>```CVE-2021-3138```  <ul><li><b>):</b></li></ul>
+<ul><a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a></ul>
 <br>
 <ul><li><b>Apple Hall Of Fame ( HOF ):</b></li></ul>
-<a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> 
+<ul><a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> <u/l>
 <br>
 <ul><li><b>Apple Hall Of Fame ( HOF ):</b></li></ul>
-<a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> 
+</ul><a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> </ul>
 
 <br>
 <br>
