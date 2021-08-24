@@ -196,7 +196,7 @@ function showSlides(n) {
 </p></h1>
 
   
-> <html><body><b><p style="color:#A52A2A;font-size:25px">Acknowledgments</p></html></body></b>
+> <html><body><b><p style="color:#A52A2A;font-size:20px">Acknowledgments</p></b></body></html>
 
 
  <ul><li><b>Apple Hall Of Fame ( HOF ):</b></li></ul>
