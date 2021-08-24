@@ -181,13 +181,16 @@ function showSlides(n) {
 </body>
 </html> 
   
-> <b><p style="color:#A52A2A;font-size:30px"> Acknowledgments</p></b>
+> <p style="color:#A52A2A;font-size:30px"> Acknowledgments</p>
 
   
-  <b><p style="color:#A52A2A;font-size:30px"> Acknowledgments</p></b>
+  <p style="color:#A52A2A;font-size:30px"> Acknowledgments</p>
   
   >``` Acknowledgments ```
 
+  ``` Acknowledgments ```
+  
+  ``` <h1>Acknowledgments</h1> ```
   
 <br><br>
 <h1><p style="color:#A52A2A"> Acknowledgments
