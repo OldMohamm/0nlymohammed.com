@@ -1,16 +1,16 @@
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Who Am i?</p></b></body></html>
 
-<b>Hello There ^_^ .In a few words, I'm Meshal AlMansour. A passionate Penetration Tester who's trying to impove his skills day by another</b>
+<b>Hello There ^_^ .<br>In a few words. I'm Meshal AlMansour, A passionate Penetration Tester who's trying to improve his skills day by day. For me Penetration Testing isn't just about a job or even an engagement to be done, it's passion , enthusiasm , mentality and much more. Sometimes I wish my day was longer than 24hrs just to stay in front of my computer and do cybersecurity stuff ( Because simply this is the thing that I like ). Scroll down to figure out some of my achievements that I've done in my 2 years experience</b>
 <br>
 <br>
 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Acknowledgments</p></b></body></html>
 
-<ul><li><b>Apple Hall Of Fame ( CVE-2021-3138 ):</b></li> <br>
+<ul><li><b>Apple Hall Of Fame:</b></li> <br>
 <a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a></ul>
-<ul><li><b>Apple Hall Of Fame ( CVE-2021-3138 ):</b></li> <br>
+<ul><li><b>Apple Hall Of Fame:</b></li> <br>
 <a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a></ul>
-<ul><li><b>Apple Hall Of Fame ( CVE-2021-3138 ):</b></li> <br>
+<ul><li><b>Apple Hall Of Fame:</b></li> <br>
 <a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a></ul>
 
 <br>
