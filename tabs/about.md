@@ -12,22 +12,20 @@ Penetration Tester at Synack since (Jul,2021)(Part Time) </ul>
 Penetration Tester since (Sep,2020) (Part Time)<br></ul>
   
 <br>
-<br>
   
 > <html><body><b><p style="color:#A52A2A;font-size:25px">COURSES & CERTIFICATIONS:</p></b></body></html>
 
 <ul><li><b>Web Application Penetration Testing eXtreme( eWPTXv2 )</b></li> <br>
-eLearnSecurity<br>
+eLearnSecurity</ul>
 <ul><li><b>Web Application Penetration Testing ( eWPT )</b></li> <br>
-eLearnSecurity<br>
+eLearnSecurity</ul>
 <ul><li><b>Data Analysis using Python</b></li> <br>
-KFUPM ( 10 hours )<br>
+KFUPM ( 10 hours )</ul>
 <ul><li><b>Principles of Project Management</b></li> <br>
-KFUPM ( 10 hours )<br>
+KFUPM ( 10 hours )</ul>
 <ul><li><b>TOEFL iBT Test</b></li> <br>
-ETS TOEFL ( Score: 71 )<br>
+ETS TOEFL ( Score: 71 )</ul>
   
-<br>
 <br>
   
 > <html><body><b><p style="color:#A52A2A;font-size:25px">PERSONAL PROJECTS:</p></b></body></html>
