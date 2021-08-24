@@ -177,6 +177,9 @@ function showSlides(n) {
 }
 </script>
 
+</body>
+</html> 
+  
 > **Acknowledgments**: 
 
 <br><br>
@@ -190,5 +193,4 @@ I was acknowledged by Apple company by listing my name in their HOF for finding 
 
 https://support.apple.com/en-us/HT201536
 
-</body>
-</html> 
+
