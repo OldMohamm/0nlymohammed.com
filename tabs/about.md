@@ -8,16 +8,17 @@
 
 <ul><li><b>Apple Hall Of Fame ( CVE-2021-3138 ):</b></li> <br>
 <a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a></ul>
-<ul><li><b>Apple Hall Of Fame ( HOF ):</b></li></ul>
-<ul><a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a></ul>
-<ul><li><b>Apple Hall Of Fame ( HOF ):</b></li></ul><ul><a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a></ul>
+<ul><li><b>Apple Hall Of Fame ( CVE-2021-3138 ):</b></li> <br>
+<a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a></ul>
+<ul><li><b>Apple Hall Of Fame ( CVE-2021-3138 ):</b></li> <br>
+<a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a></ul>
 
 <br>
 <br>
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Contact</p></b></body></html>
 
  <br>
-<i class="fab fa-linkedin"></i> <a href="https://support.apple.com/en-us/HT201536/"> Meshal's Linkedin account</a> 
+<ul><i class="fab fa-linkedin"></i> <a href="https://support.apple.com/en-us/HT201536/"> Meshal's Linkedin account</a></ul>
 <br>
 <i class="fab fa-github"></i> <a href="https://support.apple.com/en-us/HT201536/"> Meshal's Github account</a> 
 <br>
