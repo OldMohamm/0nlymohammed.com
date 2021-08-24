@@ -20,11 +20,11 @@ I was acknowledged by listing my name in their HOF for finding a vulnerability i
 <br>
 <i class="fab fa-github"></i> <a href="https://support.apple.com/en-us/HT201536/">Meshal's Github account</a> 
 <br>
-<i class="fab fa-twitter"></i></i> <a href="https://support.apple.com/en-us/HT201536/">Meshal's Twitter account</a> 
+<i class="fab fa-twitter"></i> <a href="https://support.apple.com/en-us/HT201536/">Meshal's Twitter account</a> 
 <br>
-<i class="fab fa-youtube"></i></i> <a href="https://support.apple.com/en-us/HT201536/">Meshal's YouTube channel</a> 
+<i class="fab fa-youtube"></i> <a href="https://support.apple.com/en-us/HT201536/">Meshal's YouTube channel</a> 
 <br>
-<i class="fab fa-medium"></i></i> <a href="https://support.apple.com/en-us/HT201536/">Meshal's Medium account</a> 
+<i class="fab fa-medium"></i> <a href="https://support.apple.com/en-us/HT201536/">Meshal's Medium account</a> 
 
 <html>
 <head>
