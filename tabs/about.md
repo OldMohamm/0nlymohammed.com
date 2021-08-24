@@ -196,11 +196,10 @@ function showSlides(n) {
 </p></h1>
 
   
-> <p style="color:#A52A2A;font-size:20px;font-family:verdana">Acknowledgments</p>
+> <html><body><b><p style="color:#A52A2A;font-size:25px">Acknowledgments</p></html></body></b>
 
 
- <li><b>Apple Hall Of Fame ( HOF ):</b></li>
+ <ul><li><b>Apple Hall Of Fame ( HOF ):</b></li></ul>
 I was acknowledged by Apple company by listing my name in their HOF for finding a vulnerability in one of its acquisitions ( Swift )<br>
-
 <a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> 
 
