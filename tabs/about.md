@@ -1,15 +1,4 @@
----
-title: About
 
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
----
-
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will ````show```` `````up````` on ``this`` ```page```.
- 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Acknowledgments</p></b></body></html>
 
 
@@ -25,7 +14,7 @@ I was acknowledged by Apple company by listing my name in their HOF for finding 
 I was acknowledged by Apple company by listing my name in their HOF for finding a vulnerability in one of its acquisitions ( Swift ) which was regisred later on as ```CVE-2021-3138```<br>
 <a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> 
 
-
+<br>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
