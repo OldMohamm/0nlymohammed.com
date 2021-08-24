@@ -1,6 +1,6 @@
-> <html><body><center><b><p style="color:#A52A2A;font-size:25px">Who Am i?</p></b></center></body></html>
+> <html><body><b><p style="color:#A52A2A;font-size:25px">Who Am i?</p></b></body></html>
 
-<p style="text-align: justify;"><center>Hello There ^_^ . I'm Meshal AlMansour , a passionate Penetration Tester who's trying to impove his skills day by another</center></p>
+<b><p style="text-align: justify;">Hello There ^_^ .In a few words, I'm Meshal AlMansour. A passionate Penetration Tester who's trying to impove his skills day by another</p></b>
 <br>
 <br>
 
@@ -8,7 +8,7 @@
 
  <br>
  <ul><li><b>Apple Hall Of Fame ( HOF ):</b></li></ul>
-<p style="text-align: justify;">I was acknowledged by listing my name in their HOF for finding a vulnerability in one of its acquisitions ( Swift ) which was later regisred as ```CVE-2021-3138```</p><br>
+<p style="text-align: justify;">I was acknowledged by listing my name in their HOF for finding a vulnerability in one of its acquisitions ( Swift ) which was later regisred as </p>```CVE-2021-3138```<br>
 <a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a> 
 <br>
 <ul><li><b>Apple Hall Of Fame ( HOF ):</b></li></ul>
