@@ -36,80 +36,26 @@ ETS TOEFL ( Score: 71 )</ul>
 <div class="w3-content w3-display-container">
 
 <div class="w3-display-container mySlides">
-  <img src="../../images/certs/CRTO.png" style="width:100%">
+  <img src="../../pics/ewptx.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
     CRTO
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
-  <img src="../../images/certs/eCPPT.png" style="width:100%">
+  <img src="../../pics/ewpt.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
     eCPPT
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
-  <img src="../../images/certs/eWPT.png" style="width:100%">
+  <img src="../../pics/Python-KFUPM.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
     eWPT
   </div>
 </div>
 
-<div class="w3-display-container mySlides">
-  <img src="../../images/certs/eJPT.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    eJPT
-  </div>
-</div>
-
-<div class="w3-display-container mySlides">
-  <img src="../../images/certs/blue.PNG" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-  </div>
-</div>
- 
-<div class="w3-display-container mySlides">
-  <img src="../../images/certs/Intercept.PNG" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-  </div>
-</div>
-
-<div class="w3-display-container mySlides">
-  <img src="../../images/certs/Serialize.PNG" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-  </div>
-</div>
-  
-<div class="w3-display-container mySlides">
-  <img src="../../images/certs/WHITE.PNG" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-  </div>
-</div>
-  
-<div class="w3-display-container mySlides">
-  <img src="../../images/certs/yellow.PNG" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-  </div>
-</div>
-  
-<div class="w3-display-container mySlides">
-  <img src="../../images/certs/Essential.PNG" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-  </div>
-</div>
-  
-<div class="w3-display-container mySlides">
-  <img src="../../images/certs/PCAP.PNG" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-  </div>
-</div>
-  
-<div class="w3-display-container mySlides">
-  <img src="../../images/certs/unix.PNG" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-  </div>
-</div>
   
 
 <button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
