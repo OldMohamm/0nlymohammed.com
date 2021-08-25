@@ -1,3 +1,4 @@
+  <center><img src="../../pics/Principles of Project Management.png " style="width:100%"> </center>
 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Who Am I?</p></b></body></html>
 
