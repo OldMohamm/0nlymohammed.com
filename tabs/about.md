@@ -1,4 +1,4 @@
-<html><center>![](../../pics/ewptx.png)</center></html>
+![](../../pics/ewptx.png)
 <br>
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Who Am I?</p></b></body></html>
 
