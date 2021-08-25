@@ -38,21 +38,21 @@ ETS TOEFL ( Score: 71 )</ul>
 <div class="w3-display-container mySlides">
   <img src="../../pics/ewptx.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    CRTO
+    eWPTXv2
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
   <img src="../../pics/ewpt.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    eCPPT
+    eWPT
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
   <img src="../../pics/Python-KFUPM.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    eWPT
+    Data Analysis using Python
   </div>
 </div>
 
