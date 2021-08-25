@@ -476,6 +476,7 @@ function showDivs(n) {
 </html>
 <br><br>
 
+ <html>
  $t: 2.5s;
 $e1: cubic-bezier(0.8, 0.00, 0.1, 1);
 $e2: cubic-bezier(0.600, 0.040, 0.980, 0.335);
@@ -668,3 +669,4 @@ html, body{
     box-shadow: -0px 0px 0 rgba(white, 0.5);
   }
 }
+</html>
