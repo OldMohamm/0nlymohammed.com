@@ -167,7 +167,7 @@ Getting Command Injection through python subprocess Module <br>
 <ul><i class="fab fa-medium"></i> <a href="https://mesh3l-911.medium.com/"> Meshal's Medium account</a></ul>
 <br>
  
- > <html><body><b><p style="color:#A52A2A;font-size:25px">SlideShow</p></b></body></html>
+ > <html><body><b><p style="color:#A52A2A;font-size:25px">Images</p></b></body></html>
 
  <html>
 
