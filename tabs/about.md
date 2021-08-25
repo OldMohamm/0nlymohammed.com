@@ -59,7 +59,21 @@ A tool to automate the process of testing web applications against different SQL
 <div class="w3-content w3-display-container">
 
 <div class="w3-display-container mySlides">
-  <img src="/pics/Apple HOF.png" style="width:100%">
+  <img src="/pics/7rs.jpeg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    CRTO
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="/pics/7rs.jpeg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    eCPPT
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="/pics/7rs.jpeg" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
     eWPT
   </div>
@@ -73,12 +87,53 @@ A tool to automate the process of testing web applications against different SQL
 </div>
 
 <div class="w3-display-container mySlides">
-  <img src="/pics/ewptx.png" style="width:100%">
+  <img src="/pics/7rs.jpeg" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
   </div>
 </div>
  
- 
+<div class="w3-display-container mySlides">
+  <img src="/pics/7rs.jpeg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="/pics/7rs.jpeg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+  </div>
+</div>
+  
+<div class="w3-display-container mySlides">
+  <img src="/pics/7rs.jpeg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+  </div>
+</div>
+  
+<div class="w3-display-container mySlides">
+  <img src="/pics/7rs.jpeg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+  </div>
+</div>
+  
+<div class="w3-display-container mySlides">
+  <img src="/pics/7rs.jpeg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+  </div>
+</div>
+  
+<div class="w3-display-container mySlides">
+  <img src="/pics/7rs.jpeg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+  </div>
+</div>
+  
+<div class="w3-display-container mySlides">
+  <img src="/pics/7rs.jpeg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+  </div>
+</div>
+  
 
 <button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
 <button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
