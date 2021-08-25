@@ -153,12 +153,10 @@ Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a
 </div>
  
  
-
 <button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
 <button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
 
 </div>
-
 <script>
 var slideIndex = 1;
 showDivs(slideIndex);
