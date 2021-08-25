@@ -157,7 +157,7 @@ Getting Command Injection through python subprocess Module <br>
 <a href="https://www.youtube.com/watch?v=U2hqcMUj1QQ/">CyberHub_backup</a></ul>
 
  
-> <html><body><b><p style="color:#A52A2A;font-size:25px">Contact</p></b></body></html>
+> <html><body><b><p style="color:#A52A2A;font-size:25px">Accounts</p></b></body></html>
 
 <ul><i class="fab fa-linkedin"></i> <a href="https://linkedin.com/in/meshal-almansour/"> Meshal's Linkedin account</a></ul>
 <ul><i class="fab fa-github"></i> <a href="https://github.com/mesh3l911/"> Meshal's Github account</a></ul> 
