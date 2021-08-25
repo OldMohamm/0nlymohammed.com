@@ -162,8 +162,10 @@ Getting Command Injection through python subprocess Module <br>
 <ul><i class="fab fa-youtube"></i> <a href="https://support.apple.com/en-us/HT201536/">Meshal's YouTube channel</a></ul> 
 <ul><i class="fab fa-medium"></i> <a href="https://support.apple.com/en-us/HT201536/"> Meshal's Medium account</a></ul>
 <br>
- -------------------------------------------------------------------------------------------------------------------------------------------------------------
-<html>
+ -------------------------------------------------------------------------------------------------------------------------------------------
+
+ <html>
+ <center>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
@@ -228,5 +230,6 @@ function showDivs(n) {
 </script>
 
 </body>
+ </center>
 </html>
 <br><br>
