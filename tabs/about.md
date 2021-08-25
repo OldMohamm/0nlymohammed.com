@@ -1,5 +1,4 @@
-<img src="../../pics/Principles of Project Management.png " style="width:100%" class="center"> 
-<br>
+<img src="/pics/ewptx.png" alt="Paris" class="center"> <br>
 <br>
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Who Am I?</p></b></body></html>
 
