@@ -1,4 +1,7 @@
-<img src="/pics/ewptx.png" alt="Paris" class="center"> <br>
+<p class="aligncenter">
+    <img src="/pics/ewptx.png" alt="centered image" />
+</p>
+<br>
 <br>
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Who Am I?</p></b></body></html>
 
