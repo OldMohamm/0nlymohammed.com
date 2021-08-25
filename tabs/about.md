@@ -44,73 +44,6 @@ A tool to automate the process of testing web applications against different SQL
 <ul><li><b>SQLi_Checker v1.0</b></li> <br>
 A tool to automate the process of testing web applications against different SQLi types > Get method > based on (known) payloads list</ul>
 
- <html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<style>
-.mySlides {display:none;}
-</style>
-<body>
-
-<div class="w3-content w3-display-container">
-
-<div class="w3-display-container mySlides">
-  <img src="../../pics/ewptx.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    eWPTXv2
-  </div>
-</div>
-
-<div class="w3-display-container mySlides">
-  <img src="../../pics/ewpt.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    eWPT
-  </div>
-</div>
-
-<div class="w3-display-container mySlides">
-  <img src="../../pics/Python-KFUPM.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Data Analysis using Python
-  </div>
-</div>
-
- <div class="w3-display-container mySlides">
-  <img src="../../pics/Principles of Project Management.png " style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Data Analysis using Python
-  </div>
-</div>
-  
-
-<button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
-<button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
-
-</div>
-
-<script>
-var slideIndex = 1;
-showDivs(slideIndex);
-
-function plusDivs(n) {
-  showDivs(slideIndex += n);
-}
-
-function showDivs(n) {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  if (n > x.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = x.length}
-  for (i = 0; i < x.length; i++) {
-     x[i].style.display = "none";  
-  }
-  x[slideIndex-1].style.display = "block";  
-}
-</script>
-
-</body>
-</html>
-<br><br>
 > <html><body><b><p style="color:#A52A2A;font-size:25px">CVEs</p></b></body></html>
 
 <ul><li><b>CVE-2021-3138:</b></li> <br>
@@ -125,49 +58,6 @@ Webmin 1.973 - Exploiting a Reflected Cross-Site Scripting (XSS) attack to get a
 <ul><li><b>CVE-2021-31762:</b></li> <br>
 Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a privileged user through the Webmin's add users feature then getting a reverse shell through the Webmin's running process feature <br>
 <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31762/">CVE-2021-31762</a></ul>
-
-<html>
-
-<head>
-<title>W3.CSS</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta content="text/html; charset=iso-8859-2" http-equiv="Content-Type">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<style>
-.mySlides {display:none;}
-</style>
-</head>
-
-<body>
-
-<h2 class="w3-center">Automatic Slideshow</h2>
-
-<div class="w3-content w3-section" style="max-width:500px">
-  <img class="mySlides" src="/pics/7rs.jpeg" style="width:100%">
-  <img class="mySlides" src="/pics/7rs.jpeg" style="width:100%">
-  <img class="mySlides" src="/pics/7rs.jpeg" style="width:100%">
-</div>
-
-<script>
-var myIndex = 0;
-carousel();
-
-function carousel() {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  myIndex++;
-  if (myIndex > x.length) {myIndex = 1}    
-  x[myIndex-1].style.display = "block";  
-  setTimeout(carousel, 2000); // Change image every 2 seconds
-}
-</script>
-
-</body>
-</html>
-<br><br>
   
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Acknowledgments</p></b></body></html>
 
@@ -184,66 +74,6 @@ function carousel() {
 <ul><li><b>King Fahd University of Petroleum and Minerals:</b></li> <br>
 <a href="http://www.kfupm.edu.sa/">KFUPM </a></ul>
 
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<style>
-.mySlides {display:none;}
-</style>
-<body>
-
-<div class="w3-content w3-display-container">
-
-<div class="w3-display-container mySlides">
-  <img src="/pics/Apple HOF.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    eWPT
-  </div>
-</div>
-
-<div class="w3-display-container mySlides">
-  <img src="../../pics/7rs.jpeg" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    eJPT
-  </div>
-</div>
-
-<div class="w3-display-container mySlides">
-  <img src="../../pics/ewptx.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-  </div>
-</div>
- 
- 
-
-<button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
-<button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
-
-</div>
-
-<script>
-var slideIndex = 1;
-showDivs(slideIndex);
-
-function plusDivs(n) {
-  showDivs(slideIndex += n);
-}
-
-function showDivs(n) {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  if (n > x.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = x.length}
-  for (i = 0; i < x.length; i++) {
-     x[i].style.display = "none";  
-  }
-  x[slideIndex-1].style.display = "block";  
-}
-</script>
-
-</body>
-</html>
-<br><br>
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Competitions:</p></b></body></html>
 
 <ul><li><b>First place ( 1st ) in CyberTalents Saudi Arabia National CTF
@@ -260,66 +90,6 @@ in Finals with my team ( k$a )</b></li> <br>
 Got qualified for the Arab and Africa Regional CTF ( among more than 20
 countries )</ul>
 
-<html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<style>
-.mySlides {display:none;}
-</style>
-<body>
-
-<div class="w3-content w3-display-container">
-
-<div class="w3-display-container mySlides">
-  <img src="/pics/Apple HOF.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    eWPT
-  </div>
-</div>
-
-<div class="w3-display-container mySlides">
-  <img src="/pics/7rs.jpeg" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    eJPT
-  </div>
-</div>
-
-<div class="w3-display-container mySlides">
-  <img src="/pics/ewptx.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-  </div>
-</div>
- 
- 
-
-<button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
-<button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
-
-</div>
-
-<script>
-var slideIndex = 1;
-showDivs(slideIndex);
-
-function plusDivs(n) {
-  showDivs(slideIndex += n);
-}
-
-function showDivs(n) {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  if (n > x.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = x.length}
-  for (i = 0; i < x.length; i++) {
-     x[i].style.display = "none";  
-  }
-  x[slideIndex-1].style.display = "block";  
-}
-</script>
-
-</body>
-</html>
-<br><br>
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Articles</p></b></body></html>
 
 <ul><li><b>Out Of Band technique - DNS Exfiltration:</b></li> <br>
@@ -391,67 +161,6 @@ Getting Command Injection through python subprocess Module <br>
 <ul><i class="fab fa-twitter"></i> <a href="https://support.apple.com/en-us/HT201536/"> Meshal's Twitter account</a></ul>
 <ul><i class="fab fa-youtube"></i> <a href="https://support.apple.com/en-us/HT201536/">Meshal's YouTube channel</a></ul> 
 <ul><i class="fab fa-medium"></i> <a href="https://support.apple.com/en-us/HT201536/"> Meshal's Medium account</a></ul>
-
- <html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<style>
-.mySlides {display:none;}
-</style>
-<body>
-
-<div class="w3-content w3-display-container">
-
-<div class="w3-display-container mySlides">
-  <img src="/pics/Apple HOF.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    eWPT
-  </div>
-</div>
-
-<div class="w3-display-container mySlides">
-  <img src="/pics/7rs.jpeg" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    eJPT
-  </div>
-</div>
-
-<div class="w3-display-container mySlides">
-  <img src="/pics/ewptx.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-  </div>
-</div>
- 
- 
-
-<button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
-<button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
-
-</div>
-
-<script>
-var slideIndex = 1;
-showDivs(slideIndex);
-
-function plusDivs(n) {
-  showDivs(slideIndex += n);
-}
-
-function showDivs(n) {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  if (n > x.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = x.length}
-  for (i = 0; i < x.length; i++) {
-     x[i].style.display = "none";  
-  }
-  x[slideIndex-1].style.display = "block";  
-}
-</script>
-
-</body>
-</html>
-<br>
 
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
