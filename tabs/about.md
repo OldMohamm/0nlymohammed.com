@@ -56,6 +56,12 @@ ETS TOEFL ( Score: 71 )</ul>
   </div>
 </div>
 
+ <div class="w3-display-container mySlides">
+  <img src="../../pics/Principles of Project Management.png " style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    Data Analysis using Python
+  </div>
+</div>
   
 
 <button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
@@ -107,6 +113,73 @@ A tool to automate the process of testing web applications against different SQL
 <ul><li><b>SQLi_Checker v1.0</b></li> <br>
 A tool to automate the process of testing web applications against different SQLi types > Get method > based on (known) payloads list</ul>
 
+ <html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+.mySlides {display:none;}
+</style>
+<body>
+
+<div class="w3-content w3-display-container">
+
+<div class="w3-display-container mySlides">
+  <img src="../../pics/ewptx.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    eWPTXv2
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="../../pics/ewpt.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    eWPT
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="../../pics/Python-KFUPM.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    Data Analysis using Python
+  </div>
+</div>
+
+ <div class="w3-display-container mySlides">
+  <img src="../../pics/Principles of Project Management.png " style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    Data Analysis using Python
+  </div>
+</div>
+  
+
+<button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
+<button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
+
+</div>
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+
+</body>
+</html>
+<br><br>
 > <html><body><b><p style="color:#A52A2A;font-size:25px">CVEs</p></b></body></html>
 
 <ul><li><b>CVE-2021-3138:</b></li> <br>
