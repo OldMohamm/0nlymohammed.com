@@ -162,6 +162,7 @@ Getting Command Injection through python subprocess Module <br>
 <ul><i class="fab fa-linkedin"></i> <a href="https://linkedin.com/in/meshal-almansour/"> Meshal's Linkedin account</a></ul>
 <ul><i class="fab fa-github"></i> <a href="https://github.com/mesh3l911/"> Meshal's Github account</a></ul> 
 <ul><i class="fab fa-twitter"></i> <a href="https://twitter.com/Mesh3l_911/"> Meshal's Twitter account</a></ul>
+<ul><i class="fas fa-spider"></i> <a href="https://www.exploit-db.com/?author=11089/"> Meshal's Twitter account</a></ul>
 <ul><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/channel/UCr94hhG1rz18RwATLexmQ-g/">Meshal's YouTube channel</a></ul> 
 <ul><i class="fab fa-medium"></i> <a href="https://mesh3l-911.medium.com/"> Meshal's Medium account</a></ul>
 <br>
