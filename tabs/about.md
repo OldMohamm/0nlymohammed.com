@@ -25,8 +25,7 @@ KFUPM ( 10 hours )</ul>
 <ul><li><b>TOEFL iBT Test</b></li> <br>
 ETS TOEFL ( Score: 71 )</ul>
   
-
-<br><br>
+m
 > <html><body><b><p style="color:#A52A2A;font-size:25px">PERSONAL PROJECTS:</p></b></body></html>
 
 <ul><li><b>Sub_Analyser v1.0</b></li> <br>
@@ -48,7 +47,6 @@ A tool to automate the process of testing web applications against different SQL
 <ul><li><b>SQLi_Checker v1.0</b></li> <br>
 A tool to automate the process of testing web applications against different SQLi types > Get method > based on (known) payloads list</ul>
 
- m
 > <html><body><b><p style="color:#A52A2A;font-size:25px">CVEs</p></b></body></html>
 
 <ul><li><b>CVE-2021-3138:</b></li> <br>
