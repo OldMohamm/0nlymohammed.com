@@ -1,4 +1,11 @@
-![](../../pics/ewptx.png)
+<html>
+ <div class="w3-display-container mySlides">
+  <img src="../../pics/Principles of Project Management.png " style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    Data Analysis using Python
+  </div>
+</div>
+</html>
 <br>
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Who Am I?</p></b></body></html>
 
