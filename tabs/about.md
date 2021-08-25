@@ -407,6 +407,50 @@ function showDivs(n) {
 </body>
 </html>
 <br><br>
+> <html><body><b><p style="color:#A52A2A;font-size:25px">Articles</p></b></body></html>
+
+<ul><li><b>Out Of Band technique - DNS Exfiltration:</b></li> <br>
+ In this Article I illustrate ( Blind Command Injection ( White Box ), Blind Command Injection ( Black Box ), Out Of Band technique, DNS Exfiltration, Burb Collaborator, AWS ( EC2 , inbound rules ) +Godaddy, Tcpdump, Responder.py and Bind9 DNS Server )  <br>
+<a href="https://mesh3l-911.medium.com/out-of-band-technique-dns-exfiltration-b0324c8ef281">Out Of Band technique - DNS Exfiltration</a></ul>
+<ul><li><b>Referrer Header Bypass > CSRF > Running Process endpoint > RCE > 0days > 3 CVEs > Webmin HOF:</b></li> <br>
+In this Article we illustrate how did we approach our findings in Webmin<br>
+<a href="https://mesh3l-911.medium.com/referrer-header-bypass-csrf-running-process-endpoint-rce-0days-3-cves-webmin-hof-d721e9ce4b53/">Webmin's Write-up</a></ul>  
+<ul><li><b>Recon > Code Review > 0day > CVE-2021–3138 > Apple HOF:</b></li> <br>
+In this Article I illustrate how did I approach my finding in Apple<br>
+<a href="https://mesh3l-911.medium.com/recon-code-review-0day-cve-2021-3138-apple-hof-647e2cbf55e/">Apple's Write-up</a></ul>
+<ul><li><b>CVE-2021-31762:</b></li> <br>
+Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a privileged user through the Webmin's add users feature then getting a reverse shell through the Webmin's running process feature <br>
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31762/">CVE-2021-31762</a></ul>
+ <ul><li><b>CVE-2021-31762:</b></li> <br>
+Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a privileged user through the Webmin's add users feature then getting a reverse shell through the Webmin's running process feature <br>
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31762/">CVE-2021-31762</a></ul>
+<ul><li><b>CVE-2021-31762:</b></li> <br>
+Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a privileged user through the Webmin's add users feature then getting a reverse shell through the Webmin's running process feature <br>
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31762/">CVE-2021-31762</a></ul>
+<ul><li><b>CVE-2021-31762:</b></li> <br>
+Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a privileged user through the Webmin's add users feature then getting a reverse shell through the Webmin's running process feature <br>
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31762/">CVE-2021-31762</a></ul>
+<ul><li><b>CVE-2021-31762:</b></li> <br>
+Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a privileged user through the Webmin's add users feature then getting a reverse shell through the Webmin's running process feature <br>
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31762/">CVE-2021-31762</a></ul>
+
+
+ > <html><body><b><p style="color:#A52A2A;font-size:25px">POCs</p></b></body></html>
+
+<ul><li><b>CVE-2021-3138:</b></li> <br>
+ Discourse 2.7.0 - Rate limit Bypass which leads to 2FA Bypass <br>
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3138/">CVE-2021-3138</a></ul>
+<ul><li><b>CVE-2021-31760:</b></li> <br>
+Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to get a Remote Command Execution (RCE) through the Webmin's running process feature<br>
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31760/">CVE-2021-31760</a></ul>  
+<ul><li><b>CVE-2021-31761:</b></li> <br>
+Webmin 1.973 - Exploiting a Reflected Cross-Site Scripting (XSS) attack to get a Remote Command Execution (RCE) through the Webmin's running process feature<br>
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31761/">CVE-2021-31761</a></ul>
+<ul><li><b>CVE-2021-31762:</b></li> <br>
+Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a privileged user through the Webmin's add users feature then getting a reverse shell through the Webmin's running process feature <br>
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31762/">CVE-2021-31762</a></ul>
+
+ 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Contact</p></b></body></html>
 
 <ul><i class="fab fa-linkedin"></i> <a href="https://support.apple.com/en-us/HT201536/"> Meshal's Linkedin account</a></ul>
