@@ -430,23 +430,19 @@ Here I talked about adding a python environment to the BurSuite by using jython 
 <a href="https://twitter.com/Mesh3l_911/status/1344698286985326595?s=20/">BurSuite's Python environment and Rate limit bypass</a></ul>
 <ul><li><b>Creating Digital Ocean's droplet and x2goclient:</b></li> <br>
  Creating Digital Ocean's droplet and then installing x2goclient to get a remote desktop <br>
-<a href="https://twitter.com/Mesh3l_911/status/1344001019412426754?s=20/">CVE-2021-31762</a></ul>
-<ul><li><b>CVE-2021-31762:</b></li> <br>
-Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a privileged user through the Webmin's add users feature then getting a reverse shell through the Webmin's running process feature <br>
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31762/">CVE-2021-31762</a></ul>
+<a href="https://twitter.com/Mesh3l_911/status/1344001019412426754?s=20/">Creating Digital Ocean's droplet and x2goclient</a></ul>
  <ul><li><b>How one researcher got 37500 RS from Facebook:</b></li> <br>
 I described here how one researcher was acknowledged by Facebook for finding SSRF <br>
 <a href="https://twitter.com/Mesh3l_911/status/1340861678494359555?s=20/">SSRF in Facebook</a></ul>
 <ul><li><b>Open Redirection escalations:</b></li> <br>
 Multiple ways to escalate the Open Redirection vulnerabilities  <br>
-<a href="https://twitter.com/Mesh3l_911/status/1338678182401150977?s=20/">CVE-2021-31762</a></ul>
+<a href="https://twitter.com/Mesh3l_911/status/1338678182401150977?s=20/">Open Redirection escalations</a></ul>
 <ul><li><b>Local Route Poisoning:</b></li> <br>
 Jmes Kittle introduced one type of host header injections which's Local Route Poisoning so What's Local Route Poisoning ? and how we can use it to bypass security checks such as Forbidden  <br>
-<a href="https://twitter.com/Mesh3l_911/status/1337960193238380547?s=20/">CVE-2021-31762</a></ul>
+<a href="https://twitter.com/Mesh3l_911/status/1337960193238380547?s=20/">Local Route Poisoning</a></ul>
 <ul><li><b>Python subprocess Module:</b></li> <br>
-Gittnig Command Injection through python subprocess Module <br>
+Getting Command Injection through python subprocess Module <br>
 <a href="https://twitter.com/Mesh3l_911/status/1336844985325457410?s=20/">Python subprocess Module command injection</a></ul>
-
 
 
  > <html><body><b><p style="color:#A52A2A;font-size:25px">POCs</p></b></body></html>
