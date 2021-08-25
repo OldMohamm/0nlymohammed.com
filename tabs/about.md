@@ -452,7 +452,7 @@ Getting Command Injection through python subprocess Module <br>
 <ul><li><b>Shell_Escaper v1.0:</b></li> <br>
 <a href="https://www.youtube.com/watch?v=kOvfIEVrekE/">Shell_Escaper v1.0</a></ul>  
 <ul><li><b>DNS A record's SubdomainTakeOver POC:</b></li> <br>
-<a href="https://www.youtube.com/watch?v=uYaIsw5XM1Y/">DNS A record's SubdomainTakeOver</a></ul>
+<a href="https://www.youtube.com/watch?v=gLkY4JU9zNs/">DNS A record's SubdomainTakeOver</a></ul>
 <ul><li><b>External Files Hijacking (BLH attacks):</b></li> <br>
 <a href="https://www.youtube.com/watch?v=uYaIsw5XM1Y/">External Files Hijacking (BLH attacks)</a></ul>
 <ul><li><b>creating a privileged user to RCE (Webmin's POC):</b></li> <br>
