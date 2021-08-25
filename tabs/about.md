@@ -410,29 +410,43 @@ function showDivs(n) {
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Articles</p></b></body></html>
 
 <ul><li><b>Out Of Band technique - DNS Exfiltration:</b></li> <br>
- In this Article I illustrate ( Blind Command Injection ( White Box ), Blind Command Injection ( Black Box ), Out Of Band technique, DNS Exfiltration, Burb Collaborator, AWS ( EC2 , inbound rules ) +Godaddy, Tcpdump, Responder.py and Bind9 DNS Server )  <br>
+ In this Article I illustrated [ Blind Command Injection ( White Box ), Blind Command Injection ( Black Box ), Out Of Band technique, DNS Exfiltration, Burb Collaborator, AWS ( EC2 , inbound rules ) +Godaddy, Tcpdump, Responder.py and Bind9 DNS Server ]  <br>
 <a href="https://mesh3l-911.medium.com/out-of-band-technique-dns-exfiltration-b0324c8ef281">Out Of Band technique - DNS Exfiltration</a></ul>
 <ul><li><b>Referrer Header Bypass > CSRF > Running Process endpoint > RCE > 0days > 3 CVEs > Webmin HOF:</b></li> <br>
-In this Article we illustrate how did we approach our findings in Webmin<br>
+In this Article we illustrated how did we approach our findings in Webmin<br>
 <a href="https://mesh3l-911.medium.com/referrer-header-bypass-csrf-running-process-endpoint-rce-0days-3-cves-webmin-hof-d721e9ce4b53/">Webmin's Write-up</a></ul>  
 <ul><li><b>Recon > Code Review > 0day > CVE-2021–3138 > Apple HOF:</b></li> <br>
-In this Article I illustrate how did I approach my finding in Apple<br>
+In this Article I illustrated how did I approach my finding in Apple<br>
 <a href="https://mesh3l-911.medium.com/recon-code-review-0day-cve-2021-3138-apple-hof-647e2cbf55e/">Apple's Write-up</a></ul>
+<ul><li><b>Broken Links Hijacking ( BLH ):</b></li> <br>
+In this topic I talked about chaining Sub domain TakeOver with External File Hijacking 
+( BLH attack ) to get XSS <br>
+<a href="https://twitter.com/Mesh3l_911/status/1398791461769039875?s=20/">Broken Links Hijacking</a></ul>
+ <ul><li><b>DNS A record’s Subdomain TakeOver:</b></li> <br>
+I saw alot of misconceptions about Sub-domains TakeOver and it's only about CNAME dns record so in this topic I did a POC in DNS A record’s Subdomain TakeOver  <br>
+<a href="https://twitter.com/Mesh3l_911/status/1391078380150403074?s=20/">DNS A record’s Subdomain TakeOver</a></ul>
+<ul><li><b>BurSuite's Python environment and Rate limit bypass:</b></li> <br>
+Here I talked about adding a python environment to the BurSuite by using jython then I talked about one way that might bypass the rate limit<br>
+<a href="https://twitter.com/Mesh3l_911/status/1344698286985326595?s=20/">BurSuite's Python environment and Rate limit bypass</a></ul>
+<ul><li><b>Creating Digital Ocean's droplet and x2goclient:</b></li> <br>
+ Creating Digital Ocean's droplet and then installing x2goclient to get a remote desktop <br>
+<a href="https://twitter.com/Mesh3l_911/status/1344001019412426754?s=20/">CVE-2021-31762</a></ul>
 <ul><li><b>CVE-2021-31762:</b></li> <br>
 Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a privileged user through the Webmin's add users feature then getting a reverse shell through the Webmin's running process feature <br>
 <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31762/">CVE-2021-31762</a></ul>
- <ul><li><b>CVE-2021-31762:</b></li> <br>
-Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a privileged user through the Webmin's add users feature then getting a reverse shell through the Webmin's running process feature <br>
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31762/">CVE-2021-31762</a></ul>
-<ul><li><b>CVE-2021-31762:</b></li> <br>
-Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a privileged user through the Webmin's add users feature then getting a reverse shell through the Webmin's running process feature <br>
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31762/">CVE-2021-31762</a></ul>
-<ul><li><b>CVE-2021-31762:</b></li> <br>
-Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a privileged user through the Webmin's add users feature then getting a reverse shell through the Webmin's running process feature <br>
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31762/">CVE-2021-31762</a></ul>
-<ul><li><b>CVE-2021-31762:</b></li> <br>
-Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a privileged user through the Webmin's add users feature then getting a reverse shell through the Webmin's running process feature <br>
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31762/">CVE-2021-31762</a></ul>
+ <ul><li><b>How one researcher got 37500 RS from Facebook:</b></li> <br>
+I described here how one researcher was acknowledged by Facebook for finding SSRF <br>
+<a href="https://twitter.com/Mesh3l_911/status/1340861678494359555?s=20/">SSRF in Facebook</a></ul>
+<ul><li><b>Open Redirection escalations:</b></li> <br>
+Multiple ways to escalate the Open Redirection vulnerabilities  <br>
+<a href="https://twitter.com/Mesh3l_911/status/1338678182401150977?s=20/">CVE-2021-31762</a></ul>
+<ul><li><b>Local Route Poisoning:</b></li> <br>
+Jmes Kittle introduced one type of host header injections which's Local Route Poisoning so What's Local Route Poisoning ? and how we can use it to bypass security checks such as Forbidden  <br>
+<a href="https://twitter.com/Mesh3l_911/status/1337960193238380547?s=20/">CVE-2021-31762</a></ul>
+<ul><li><b>Python subprocess Module:</b></li> <br>
+Gittnig Command Injection through python subprocess Module <br>
+<a href="https://twitter.com/Mesh3l_911/status/1336844985325457410?s=20/">Python subprocess Module command injection</a></ul>
+
 
 
  > <html><body><b><p style="color:#A52A2A;font-size:25px">POCs</p></b></body></html>
