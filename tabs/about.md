@@ -187,110 +187,197 @@ Getting Command Injection through python subprocess Module <br>
   </div>
 </div>
 
+    <div class="w3-display-container mySlides">
+  <img src="../../pics/Apple HOF.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    Apples's HOF
+  </div>
+</div>
+
 <div class="w3-display-container mySlides">
+  <img src="../../pics/CVE-2021-3138.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    CVE-2021-3138
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="../../pics/CVE-2021-31760.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    CVE-2021-31760
+  </div>
+</div>
+
+ <div class="w3-display-container mySlides">
+  <img src="../../pics/CVE-2021-31761.png " style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    CVE-2021-31761
+  </div>
+</div>
+  
+ <div class="w3-display-container mySlides">
+  <img src="../../pics/CVE-2021-31762.png " style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    CVE-2021-31762
+  </div>
+</div>
+
+  <div class="w3-display-container mySlides">
+  <img src="../../pics/webmin_ack.png " style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    Webmin HOF.png
+  </div>
+</div>
+ 
+ <div class="w3-display-container mySlides">
+  <img src="../../pics/General_Electric.jpeg " style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    General_Electric HOF
+  </div>
+</div>
+ 
+ <div class="w3-display-container mySlides">
+  <img src="../../pics/7rs.jpeg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    Ministry of National Guard
+  </div>
+</div>
+ 
+ <div class="w3-display-container mySlides">
+  <img src="../../pics/KFUPM.jpeg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    KFUPM
+  </div>
+</div>
+ 
+ <div class="w3-display-container mySlides">
+  <img src="../../pics/Shell1.jpeg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    Shell
+  </div>
+</div>
+ 
+ <div class="w3-display-container mySlides">
+  <img src="../../pics/Shell.jpeg " style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    Shell
+  </div>
+</div>
+ 
+  <div class="w3-display-container mySlides">
   <img src="../../pics/ewpt.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
     eWPT
   </div>
 </div>
-
-<div class="w3-display-container mySlides">
+ 
+ <div class="w3-display-container mySlides">
   <img src="../../pics/Python-KFUPM.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Data Analysis using Python
+    Python.png
   </div>
 </div>
-
+ 
  <div class="w3-display-container mySlides">
-  <img src="../../pics/Principles of Project Management.png " style="width:100%">
+  <img src="../../pics/Principles of Project Management.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
     Principles of Project Management
   </div>
 </div>
+ 
+ <div class="w3-display-container mySlides">
+  <img src="../../pics/cyb1.jpeg " style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    CyberHub2020-BloodHunters team
+  </div>
+</div>
+ 
+ <div class="w3-display-container mySlides">
+  <img src="../../pics/CyberHub_2.jpeg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    CyberHub2021-BloodHunters team
+  </div>
+</div>
+    
+  <div class="w3-display-container mySlides">
+  <img src="../../pics/CyberTalents(1st)-ind.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    CyberTalents(1st)-individually 
+  </div>
+</div>
+    
+  <div class="w3-display-container mySlides">
+  <img src="../../pics/ksa.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    CyberTalents(1st)-k$a team
+  </div>
+</div>
   
  <div class="w3-display-container mySlides">
-  <img src="../../pics/Principles of Project Management.png " style="width:100%">
+  <img src="../../pics/JS_Scrapper_Output.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Data Analysis using Python
+    JS_Scrapper_Output
+  </div>
+</div>
+    
+  <div class="w3-display-container mySlides">
+  <img src="../../pics/sudo.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    Shell_Escaper-Output
+  </div>
+</div>
+    
+  <div class="w3-display-container mySlides">
+  <img src="../../pics/sub.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    Sub_Analyser_Output
+  </div>
+</div>
+    
+  <div class="w3-display-container mySlides">
+  <img src="../../pics/sqli1.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    SQLi_Checker1.1_Output
+  </div>
+</div>
+    
+  <div class="w3-display-container mySlides">
+  <img src="../../pics/sqli0.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    SQLi_Checker1.0_Output
+  </div>
+</div>
+    
+  <div class="w3-display-container mySlides">
+  <img src="../../pics/twitter.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    My Twitter account
   </div>
 </div>
 
-  <div class="w3-display-container mySlides">
-  <img src="../../pics/Principles of Project Management.png " style="width:100%">
+    
+   <div class="w3-display-container mySlides">
+  <img src="../../pics/github.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Data Analysis using Python
+    My GitHub Page
   </div>
 </div>
- 
- <div class="w3-display-container mySlides">
-  <img src="../../pics/Principles of Project Management.png " style="width:100%">
+
+<div class="w3-display-container mySlides">
+  <img src="../../pics/exploitdb" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Data Analysis using Python
+    My Exploit-db Page
   </div>
 </div>
- 
- <div class="w3-display-container mySlides">
-  <img src="../../pics/Principles of Project Management.png " style="width:100%">
+
+      <div class="w3-display-container mySlides">
+  <img src="../../pics/youtube.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Data Analysis using Python
+    My YouTube Channel
   </div>
 </div>
- 
- <div class="w3-display-container mySlides">
-  <img src="../../pics/Principles of Project Management.png " style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Data Analysis using Python
-  </div>
-</div>
- 
- <div class="w3-display-container mySlides">
-  <img src="../../pics/Principles of Project Management.png " style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Data Analysis using Python
-  </div>
-</div>
- 
- <div class="w3-display-container mySlides">
-  <img src="../../pics/Principles of Project Management.png " style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Data Analysis using Python
-  </div>
-</div>
- 
-  <div class="w3-display-container mySlides">
-  <img src="../../pics/Principles of Project Management.png " style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Data Analysis using Python
-  </div>
-</div>
- 
- <div class="w3-display-container mySlides">
-  <img src="../../pics/Principles of Project Management.png " style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Data Analysis using Python
-  </div>
-</div>
- 
- <div class="w3-display-container mySlides">
-  <img src="../../pics/Principles of Project Management.png " style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Data Analysis using Python
-  </div>
-</div>
- 
- <div class="w3-display-container mySlides">
-  <img src="../../pics/Principles of Project Management.png " style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Data Analysis using Python
-  </div>
-</div>
- 
- <div class="w3-display-container mySlides">
-  <img src="../../pics/Principles of Project Management.png " style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Data Analysis using Python
-  </div>
-</div>
+    
+
 
 <button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
 <button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
