@@ -165,14 +165,14 @@ Getting Command Injection through python subprocess Module <br>
  -------------------------------------------------------------------------------------------------------------------------------------------
 
  <html>
- <center>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
 .mySlides {display:none;}
 </style>
 <body>
-
+ <center>
 <div class="w3-content w3-display-container">
 
 <div class="w3-display-container mySlides">
@@ -228,8 +228,7 @@ function showDivs(n) {
   x[slideIndex-1].style.display = "block";  
 }
 </script>
-
-</body>
  </center>
+</body>
 </html>
 <br><br>
