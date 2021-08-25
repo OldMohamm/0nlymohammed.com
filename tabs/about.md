@@ -445,20 +445,30 @@ Getting Command Injection through python subprocess Module <br>
 <a href="https://twitter.com/Mesh3l_911/status/1336844985325457410?s=20/">Python subprocess Module command injection</a></ul>
 
 
- > <html><body><b><p style="color:#A52A2A;font-size:25px">POCs</p></b></body></html>
+ > <html><body><b><p style="color:#A52A2A;font-size:25px">POCs & Automation</p></b></body></html>
 
-<ul><li><b>CVE-2021-3138:</b></li> <br>
- Discourse 2.7.0 - Rate limit Bypass which leads to 2FA Bypass <br>
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3138/">CVE-2021-3138</a></ul>
-<ul><li><b>CVE-2021-31760:</b></li> <br>
-Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to get a Remote Command Execution (RCE) through the Webmin's running process feature<br>
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31760/">CVE-2021-31760</a></ul>  
-<ul><li><b>CVE-2021-31761:</b></li> <br>
-Webmin 1.973 - Exploiting a Reflected Cross-Site Scripting (XSS) attack to get a Remote Command Execution (RCE) through the Webmin's running process feature<br>
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31761/">CVE-2021-31761</a></ul>
-<ul><li><b>CVE-2021-31762:</b></li> <br>
-Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a privileged user through the Webmin's add users feature then getting a reverse shell through the Webmin's running process feature <br>
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31762/">CVE-2021-31762</a></ul>
+<ul><li><b>JS Scrapper:</b></li> <br>
+<a href="https://www.youtube.com/watch?v=LqD_1LdC2Aw/">JS Scrapper</a></ul>
+<ul><li><b>Shell_Escaper v1.0:</b></li> <br>
+<a href="https://www.youtube.com/watch?v=kOvfIEVrekE/">Shell_Escaper v1.0</a></ul>  
+<ul><li><b>DNS A record's SubdomainTakeOver POC:</b></li> <br>
+<a href="https://www.youtube.com/watch?v=uYaIsw5XM1Y/">DNS A record's SubdomainTakeOver</a></ul>
+<ul><li><b>External Files Hijacking (BLH attacks):</b></li> <br>
+<a href="https://www.youtube.com/watch?v=uYaIsw5XM1Y/">External Files Hijacking (BLH attacks)</a></ul>
+<ul><li><b>creating a privileged user to RCE (Webmin's POC):</b></li> <br>
+<a href="https://www.youtube.com/watch?v=qCvEXwyaF5U/">Creating a privileged user to RCE (Webmin's POC)</a></ul>
+<ul><li><b>CSRF to RCE (Webmin's POC):</b></li> <br>
+<a href="https://www.youtube.com/watch?v=D45FN8QrzDo/">CSRF to RCE (Webmin's POC)</a></ul>
+<ul><li><b>CyberHub_Rosetta:</b></li> <br>
+<a href="https://www.youtube.com/watch?v=iQbrlQg3Pek/">CyberHub_Rosetta</a></ul>
+<ul><li><b>CyberHub_secure box:</b></li> <br>
+<a href="https://www.youtube.com/watch?v=YQNjVpPTwe4/">CyberHub_secure box</a></ul>
+<ul><li><b>CyberHub_XReges:</b></li> <br>
+<a href="https://www.youtube.com/watch?v=k5SgXC_OIIk/">CyberHub_XReges</a></ul>
+<ul><li><b>CyberHub_XWAF:</b></li> <br>
+<a href="https://www.youtube.com/watch?v=Zd0gW-jWUvg/">CyberHub_XWAF</a></ul>
+<ul><li><b>CyberHub_backup:</b></li> <br>
+<a href="https://www.youtube.com/watch?v=U2hqcMUj1QQ/">CyberHub_backup</a></ul>
 
  
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Contact</p></b></body></html>
