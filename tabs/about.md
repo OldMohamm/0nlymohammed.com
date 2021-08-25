@@ -1,5 +1,5 @@
 <p class="aligncenter">
-    <img src="/pics/LOGO.png" alt="centered image" />
+    <img src="/pics/LOGO .png" alt="centered image" />
 </p>
 <br>
 <br>
