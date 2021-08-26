@@ -47,6 +47,22 @@ A tool to automate the process of testing web applications against different SQL
 <ul><li><b>SQLi_Checker v1.0</b></li> <br>
 A tool to automate the process of testing web applications against different SQLi types > Get method > based on (known) payloads list</ul>
 
+> <html><body><b><p style="color:#A52A2A;font-size:25px">TECHNICAL SKILLS:</p></b></body></html>
+
+<ul><li><b>Performing Dynamic/Static web application penetration
+testing ( SAST/DAST )</b></li></ul>
+<ul><li><b>Experienced with OWASP Web/Api standards and processes
+for conducting penetration testing</b></li></ul>
+<ul><li><b>PYTHON coder and familiar with C,JAVA,PHP ,BASH basics</b></li></ul>
+<ul><li><b>Experienced with the Networks/Networks penetration
+testing fundamentals</b></li></ul>
+<ul><li><b>Fundamentals of :</b></li> <br>
+-Linux/Windows Privileges escalation <br>
+-Regular Expressions <br>
+-IOS/Android SSL Pinning and Root
+detection bypasses <br>
+-Windows Buffer Overflows</ul>
+
 > <html><body><b><p style="color:#A52A2A;font-size:25px">CVEs</p></b></body></html>
 
 <ul><li><b>CVE-2021-3138:</b></li> <br>
