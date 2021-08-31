@@ -97,11 +97,12 @@ Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a
 
 <ul><li><b>First place ( 1st ) in Watad CTF ( PeakyBlinders )
 Qualification round 2021</b></li> <br>
-Watad's CTF was to all cybersecurity engineers & pentesters in SaudiArabia where 2 teams have participated with a total of 100+ compititors</ul>
+Watad's CTF was to all cybersecurity engineers & pentesters in SaudiArabia where 42 teams have participated with a total of 100+ compititors</ul>
     
 <ul><li><b>First place ( 1st ) in CyberTalents Saudi Arabia National CTF
 Qualification round 2020</b></li> <br>
 Individually</ul>
+    
 <ul><li><b>First place ( 1st ) in Cyber Hub universities CTF 2020 with
 my team ( BloodHunters )</b></li> <br>
 Among ( more than 35 universities , 2000 students and 480 teams )</ul>
