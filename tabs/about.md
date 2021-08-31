@@ -95,6 +95,10 @@ Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a
 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Competitions:</p></b></body></html>
 
+<ul><li><b>First place ( 1st ) in Watad CTF ( PeakyBlinders )
+Qualification round 2021</b></li> <br>
+Watad's CTF was to all cybersecurity engineers & pentesters in SaudiArabia where 2 teams have participated with a total of 100+ compititors</ul>
+    
 <ul><li><b>First place ( 1st ) in CyberTalents Saudi Arabia National CTF
 Qualification round 2020</b></li> <br>
 Individually</ul>
@@ -315,6 +319,13 @@ Getting Command Injection through python subprocess Module <br>
   </div>
 </div>
     
+  <div class="w3-display-container mySlides">
+  <img src="../../pics/watad.jpeg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    Watad's CTF
+  </div>
+</div>
+
   <div class="w3-display-container mySlides">
   <img src="../../pics/CyberTalents(1st)-ind.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
