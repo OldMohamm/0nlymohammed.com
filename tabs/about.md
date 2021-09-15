@@ -17,6 +17,8 @@ Penetration Tester since (Sep,2020) (Part Time)<br></ul>
 
 <ul><li><b>Web Application Penetration Testing eXtreme( eWPTXv2 )</b></li> <br>
 eLearnSecurity</ul>
+<ul><li><b>Offensive Security Certified Professional (OSCP)</b></li> <br>
+Offensive</ul>
 <ul><li><b>Web Application Penetration Testing ( eWPT )</b></li> <br>
 eLearnSecurity</ul>
 <ul><li><b>Data Analysis using Python</b></li> <br>
