@@ -62,12 +62,16 @@ If you need to intercept the traffic from an app which uses certificate pinning,
 <br>
  ويطبق عليه البروسيس المذكور فوق Common Libraries  هو يعتمد بشكل كامل على بعض الـ 
 
- decompiled apk source code طيب كيف عرفنا التطبيق يستخدمها ؟ عن طريق الـ okhttp3 ومنها اللي كانت موجودة بسيناريو اليوم 
+okhttp3 ومنها اللي كانت موجودة بسيناريو اليوم
+<br>
+ decompiled apk source code طيب كيف عرفنا التطبيق يستخدمها ؟ عن طريق الـ  
+<br>
 <br>
 :وبكذا بعد ماعرفنا خلونا نطبق
 <br>
  SSL Pinning هنا أول ماإكتشفت إن فيه 
 <br>
+
 <p>
-    <img src="/posts_pics/-1.png" />
+    <img src="/posts_pics/-1.png"/>
 </p>
