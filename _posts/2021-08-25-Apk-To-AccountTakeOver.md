@@ -156,7 +156,7 @@ Encrypted  لكن المشكلة قيم البارامترز كانت
 <br>
 :والآن نقول بسم الله تونا نبدأ 
 <br>
-   ![](../../posts_pics/happ.png)
+   ![](../../posts_pics/happ.gif)
 <br>
 <br>
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Network Traffic Analysis:</p></b></body></html>
