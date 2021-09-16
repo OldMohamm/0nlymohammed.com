@@ -82,7 +82,7 @@ okhttp3 ومنها اللي كانت موجودة بسيناريو اليوم
 <br>
 وعشان نفهم أكثر كيف قدر البروجكت يتخطاها , زي ماقلت لكم بتطبيق البروسيس المذكور فوق
 <br>
- بالسطر العاشر Check وهنا نشوف عملية الـ
+ بالسطرين 10 , 13 Check وهنا نشوف عملية الـ
 <br>
 ```java
 public void check(String hostname, List<Certificate> peerCertificates) 
