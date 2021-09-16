@@ -26,7 +26,7 @@ tags: [Apk, TakeOver]
 > <html><body><b><p style="color:#A52A2A;font-size:25px">SSL Pinning Bypass:</p></b></body></html>
 
 <br>يب قبل نتكلم عن طرق التخطي خلونا ناخذ فكرة بسيطة وسطحية عن إيش هو من الأساس ؟
-```SSL Pinnig:``` 
+```SSL Pinnig:``` <br>
  بطرق مختلفة مثل(Pinned == Hard Coded) بداخل التطبيق تكون trustful certificates بكل بساطة خلونا نقول يكون فيه  
 - Certificate
 - Public Key
