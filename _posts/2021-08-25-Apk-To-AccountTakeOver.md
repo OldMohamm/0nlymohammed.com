@@ -262,7 +262,7 @@ Decompile the (.apk) file using ( jadx-GUI )
 <br>
  على خفيف Code Review ونبدأ شغل 
  <br>
-  Encryption هنا قطعت الشك باليقين إيش البارامترز بالضبط اللي قاعد يصير لها 
+  Encryption هنا قطعت الشك باليقين وعرفت إيش البارامترز بالضبط اللي قاعد يصير لها 
   <br>
      ![](../../posts_pics/12.png)
 <br>
