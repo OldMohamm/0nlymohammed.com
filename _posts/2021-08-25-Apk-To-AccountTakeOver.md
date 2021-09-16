@@ -187,11 +187,16 @@ Encryption Algorithm الحين الهدف صار إننا ندور على ال�
   <br>
    Frida toolsلداخل الجهاز عشان نقدر نستفيد من بعض الـ Frida-server بعدها ننقل الـ 
    <br>
+      ![](../../posts_pics/6.gif)
+   <br>
+   <br>
+   
    Objection طيب الحين راح نبدأ نستخدم الـ 
    <br>
    هنا من الريبو الرسمي الخاص بالبروجكت 
    <br>
-   For all supported platforms, `objection` allows you to:
+   <br>
+   For all supported platforms, objection allows you to:
 
 -   Patch iOS and Android applications, embedding a Frida gadget that can be used with `objection` or just Frida itself.
 -   Interact with the filesystem, listing entries as well as upload & download files where permitted.
@@ -202,3 +207,41 @@ Encryption Algorithm الحين الهدف صار إننا ندور على ال�
 -   Dynamically dump arguments from methods called as you use the target application.
 -   Interact with SQLite databases inline without the need to download the targeted database and use an external tool.
 -   Execute custom Frida scripts.
+<br>
+<br>
+اللي يهمنا هو الشي حاليا هو الشي اللي ضللته . بسم الله نشوف كيف نسويها 
+<br>
+<br>
+ Package قبل نسويها نحتاج نطلع إسم الـ
+ <br>
+ Frida-tools هنا راح نستخدم وحدة من الـ
+ <br>
+` frida-ps -U ` : list running processes
+<br>
+   ![](../../posts_pics/7.gif)
+<br>
+<br>
+`objection --gadget Package_Name explore` بعد ماطلعت إسم الباكج الحين راح نستخدمه في الـ 
+<br>
+` android hooking list classes `
+<br>
+   ![](../../posts_pics/8_1.gif)
+<br>
+<br>
+Login وهنا نشوف وصلنا للـ
+<br>
+ Encryption لأن كان هدفي من البداية أشوف وش من البارامترز بالضبط اللي يصير له   
+<br>
+   ![](../../posts_pics/9_1.gif)
+<br>
+<br>
+ Encryption  وهنا قدرت أوصل لإسم الكلاس والفنكشن المسوؤلة عن الـ 
+<br>
+![](../../posts_pics/10_1.gif)
+<br>
+<br>
+وبعد ماوصلنا لإسم الكلاس والفنكشن خلاص نقدر نبحث عنها ونبدأ شغل الستاتيك بإذن الله 
+<br>
+   ![](../../posts_pics/11_1.gif)
+<br>
+<br>
