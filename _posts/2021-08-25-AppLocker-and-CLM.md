@@ -10,6 +10,7 @@ tags: [sslpinning, frida, adb, objection, , CLM, CLM]
 <p class="aligncenter">
     <img src="/pics/LOGO.png" alt="centered image" />
 </p>
+
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Agenda:</p></b></body></html>
 
 <ul><li><b>SSL Pinning Bypass</b></li></ul>
