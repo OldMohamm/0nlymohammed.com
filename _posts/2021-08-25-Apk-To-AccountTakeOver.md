@@ -245,3 +245,96 @@ Login وهنا نشوف وصلنا للـ
    ![](../../posts_pics/11_1.png)
 <br>
 <br>
+> <html><body><b><p style="color:#A52A2A;font-size:25px">Basic Static Analysis( Jadx-GUI ):</p></b></body></html>
+
+طيب بعد ماعرفنا إسم الكلاسس والفنكشنز الحين بكل بساطة 
+<br>
+Decompile the (.apk) file using ( jadx-GUI )
+<br>
+ على خفيف Code Review ونبدأ شغل 
+ <br>
+  Encryption هنا قطعت الشك باليقين إيش البارامترز بالضبط اللي قاعد يصير لها 
+  <br>
+     ![](../../posts_pics/12.png)
+<br>
+<br>
+-   Weak Encryption Algorithm:
+
+Encryptionهنا الفنكشن المسؤولة عن الـ 
+<br>
+Symmetric Encryption (AES electronic codebook mode encryption)
+  <br>
+     ![](../../posts_pics/13.png)
+<br>
+<br>
+Keyعلى طول راح بالي للـ 
+<br>
+وفعلا ببحث سريع لقيته 
+  <br>
+     ![](../../posts_pics/13_1.png)
+<br>
+<br>
+
+> <html><body><b><p style="color:#A52A2A;font-size:25px">Password Generator(Crunch + Cusom Java script):</p></b></body></html>
+
+Encrypted وبكذا فهمنا كل اللي صاير , الحين وقت نبدأ نسوي الشي اللي كنا مخططين له من البداية وهو باسووردز ليست من 0000 إلى 9999 لكن تكون 
+<br>
+بإستخدام نفس الفنكشن المستخدمة بالتطبيق
+<br>
+ بإستخدام Clear Text Passwords فالبداية سويت 
+ <br>
+ Crunch
+  <br>
+     ![](../../posts_pics/14.png)
+<br>
+<br>
+GitHubموجودة بـ Library طيب أنا لقيت الـ 
+<br>
+بحطها تحت بالمصادر إن شاء الله 
+<br>
+  داخل الإكليبس وبكذا أكون جاهز أسوي السكريبت على السريع jar file للـ import كان علي أسوي 
+<br>
+النتيجة النهائية للكود :
+  <br>
+     ![](../../posts_pics/15.png)
+<br>
+<br>
+clearPass.txt الكود بكل إختصار ياخذ كل اللي بملف الـ 
+<br>
+ Crunch اللي سويناه بإستخدام 
+ <br>
+  encryptedPass.txt وبعدها يكتبها بملف Encrypt ويسوي للقيم 
+ <br>
+ النتيجة النهائية للملف قبل وبعد 
+ <br>
+      ![](../../posts_pics/16.png)
+<br>
+<br>
+ 
+ > <html><body><b><p style="color:#A52A2A;font-size:25px">Account TakeOver:</p></b></body></html>
+ 
+ Intruder وبكذا صرنا جاهزييييين ننقل الليست على الـ 
+<br>
+وناخذ أي حساب 
+<br>
+      ![](../../posts_pics/17.png)
+<br>
+<br>
+ 
+Done.
+
+ > <html><body><b><p style="color:#A52A2A;font-size:25px">Final word:</p></b></body></html>
+دعواتكم لي ولوالدي , وإعذرونا على القصور , وأي تعديل أو إقتراح بكون شاكر جدا 
+<br>
+Happy Hacking ...
+<br>
+<br>
+
+ > <html><body><b><p style="color:#A52A2A;font-size:25px">References:</p></b></body></html>
+
+-   https://frida.re/docs/home/
+-   https://frida.re/docs/frida-ps/
+-   https://github.com/sensepost/objection
+-   https://github.com/tsug0d/AndroidMobilePentest101
+-   https://blog.securityevaluators.com/bypassing-okhttp3-certificate-pinning-c68a872ca9c8
+-   https://github.com/BullyBoo/Encryption
