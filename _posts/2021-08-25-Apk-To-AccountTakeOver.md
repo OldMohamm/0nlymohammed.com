@@ -73,4 +73,4 @@ okhttp3 ومنها اللي كانت موجودة بسيناريو اليوم
  SSL Pinning هنا أول ماإكتشفت إن فيه 
 <br>
 
-![](posts_pics/-1.png)
+![](../../posts_pics/-1.png)
