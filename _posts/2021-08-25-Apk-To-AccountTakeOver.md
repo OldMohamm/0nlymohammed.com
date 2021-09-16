@@ -80,7 +80,9 @@ okhttp3 ومنها اللي كانت موجودة بسيناريو اليوم
 <br>
 ![](../../posts_pics/0.png)
 <br>
- بالسطر العاشر Checkوعشان نفهم أكثر كيف قدر البروجكت يتخطاها , زي ماقلت لكم بتطبيق البروسيس المذكور فوق وهنا نشوف عملية الـ
+وعشان نفهم أكثر كيف قدر البروجكت يتخطاها , زي ماقلت لكم بتطبيق البروسيس المذكور فوق
+<br>
+ بالسطر العاشر Check وهنا نشوف عملية الـ
 <br>
 ```java
 public void check(String hostname, List<Certificate> peerCertificates) 
@@ -104,6 +106,7 @@ throws SSLPeerUnverifiedException {
 …
 }
 ```
+<br>
 <br>
 <br>
 SSLUnpinning - Xposed Module وهنا الـ 
