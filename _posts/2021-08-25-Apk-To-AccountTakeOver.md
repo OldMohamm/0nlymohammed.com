@@ -159,4 +159,4 @@ Encrypted  لكن المشكلة قيم البارامترز كانت
    ![](../../posts_pics/happ.gif)
 <br>
 <br>
-> <html><body><b><p style="color:#A52A2A;font-size:25px">Network Traffic Analysis:</p></b></body></html>
+> <html><body><b><p style="color:#A52A2A;font-size:25px">Basic Dynamic Analysis(Genymotion, adb, Frida, Objection):</p></b></body></html>
