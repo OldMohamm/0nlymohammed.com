@@ -246,12 +246,12 @@ Login وهنا نشوف وصلنا للـ
 <br>
  Encryption  وهنا قدرت أوصل لإسم الكلاس والفنكشن المسوؤلة عن الـ 
 <br>
-![](../../posts_pics/10_1.png)
+![](../../posts_pics/11_1.png)
 <br>
 <br>
 وبعد ماوصلنا لإسم الكلاس والفنكشن خلاص نقدر نبحث عنها ونبدأ شغل الستاتيك بإذن الله 
 <br>
-   ![](../../posts_pics/11_1.png)
+   ![](../../posts_pics/10_1.png)
 <br>
 <br>
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Basic Static Analysis( Jadx-GUI ):</p></b></body></html>
