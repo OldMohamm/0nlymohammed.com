@@ -174,7 +174,7 @@ Encryption Algorithm الحين الهدف صار إننا ندور على ال�
    وبعدها نروح للكود that are being loaded at run-time والثانية عن طريق الداينمك , بكل إختصار نشوف الكلاسس والميثودز 
  <br>
 <br>
-- ```Dynamic Analysis```:is the process of testing and evaluation of program by executing data at run-time <br>
+- ```Dynamic Analysis```:is the process of testing and evaluation of a program by executing data at run-time <br>
 - ```Genymotion```: Emulator that gives us rooted devices <br>
 - ```Android Debug Bridge(adb)```: Android Debug Bridge (adb) is a versatile command-line tool that lets you communicate with a device. The adb command facilitates a variety of device actions, such as installing and debugging apps, and it provides access to a Unix shell that you can use to run a variety of commands on a device <br>
 - ```Frida```:it’s a dynamic code instrumentation toolkit. It lets you inject snippets of JavaScript or your own library into native apps on Windows, macOS, GNU/Linux, iOS, Android, and QNX. Frida also provides you with some simple tools built on top of the Frida API<br>
