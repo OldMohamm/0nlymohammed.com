@@ -11,8 +11,6 @@ tags: [Apk, TakeOver]
     <img src="/pics/LOGO.png" alt="centered image" />
 </p>
 
-<center><b> ^_^ السلام عليكم ورحمة الله وبركاته, يالله حيهم </b></center><br> 
-
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Agenda:</p></b></body></html>
 
 <ul><li><b>SSL Pinning Bypass</b></li></ul>
