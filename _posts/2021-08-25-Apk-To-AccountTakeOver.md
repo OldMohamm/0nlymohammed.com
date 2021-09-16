@@ -108,7 +108,6 @@ throws SSLPeerUnverifiedException {
 ```
 <br>
 <br>
-<br>
 SSLUnpinning - Xposed Module وهنا الـ 
 <br>
 ![](../../posts_pics/1.png)
