@@ -80,6 +80,31 @@ okhttp3 ومنها اللي كانت موجودة بسيناريو اليوم
 <br>
 ![](../../posts_pics/0.png)
 <br>
+ بالسطر العاشر Checkوعشان نفهم أكثر كيف قدر البروجكت يتخطاها , زي ماقلت لكم بتطبيق البروسيس المذكور فوق وهنا نشوف عملية الـ
+<br>
+```java
+public void check(String hostname, List<Certificate> peerCertificates) 
+throws SSLPeerUnverifiedException {
+    List<Pin> pins = findMatchingPins(hostname);
+    if (pins.isEmpty()) return;
+ …
+      for (int p = 0, pinsSize = pins.size(); p < pinsSize; p++) {
+        Pin pin = pins.get(p);
+        if (pin.hashAlgorithm.equals("sha256/")) {
+          if (sha256 == null) sha256 = sha256(x509Certificate);
+          if (pin.hash.equals(sha256)) return; // Success!
+        } else if (pin.hashAlgorithm.equals("sha1/")) {
+          if (sha1 == null) sha1 = sha1(x509Certificate);
+          if (pin.hash.equals(sha1)) return; // Success!
+        } else {
+          throw new AssertionError();
+        }
+      }
+    }
+…
+}
+```
+<br>
 <br>
 SSLUnpinning - Xposed Module وهنا الـ 
 <br>
