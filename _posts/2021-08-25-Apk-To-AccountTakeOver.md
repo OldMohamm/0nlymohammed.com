@@ -160,3 +160,41 @@ Encrypted  لكن المشكلة قيم البارامترز كانت
 <br>
 <br>
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Basic Dynamic Analysis(Genymotion, adb, Frida, Objection):</p></b></body></html>
+
+    
+Encryption بعد ماشفنا فوق إن فيه عملية 
+<br>
+ ونحاول بطريقة ما نسوي ليست باسووردز من 0000 إلى 9999 بنفس المبدأ Encryption Algorithm الحين الهدف صار إننا ندور على الـ 
+ <br>
+ طيب عشان ندور عن الفنكشن المسؤولة عندنا طريقتين , الأولى ستاتيك نقعد نبحث بالكود لين تطلع عيوننا أو نخمن إسم الفنكشن ونسوي سيرش سريع 
+   وبعدها نروح للكود that are bieng loaded at run-time والثانية عن طريق الداينمك , بكل إختصار نشوف الكلاسس والميثودز 
+ <br>
+<br>
+- ```Dynamic Analysis```:is the process of testing and evaluation of program by executing data at run-time <br>
+- ```Genymotion```: Emulator that gives us rooted devices <br>
+- ```Android Debug Bridge(adb)```: Android Debug Bridge (adb) is a versatile command-line tool that lets you communicate with a device. The adb command facilitates a variety of device actions, such as installing and debugging apps, and it provides access to a Unix shell that you can use to run a variety of commands on a device <br>
+- ```Frida```:it’s a dynamic code instrumentation toolkit. It lets you inject snippets of JavaScript or your own library into native apps on Windows, macOS, GNU/Linux, iOS, Android, and QNX. Frida also provides you with some simple tools built on top of the Frida API<br>
+- ```Objection```:is a runtime mobile exploration toolkit, powered by [Frida](https://www.frida.re/), built to help you assess the security posture of your mobile applications<br><br>
+
+بعد ماعرفنا المصطلحات ندخل على التطبيق 
+<br>
+<br>
+  adb عن طريق Emulator بعد ماننزل التولز اللي فوق نتصل بالجهاز الموجود بالـ 
+  <br>
+   Frida toolsلداخل الجهاز عشان نقدر نستفيد من بعض الـ Frida-server بعدها ننقل الـ 
+   <br>
+   Objection طيب الحين راح نبدأ نستخدم الـ 
+   <br>
+   هنا من الريبو الرسمي الخاص بالبروجكت 
+   <br>
+   For all supported platforms, `objection` allows you to:
+
+-   Patch iOS and Android applications, embedding a Frida gadget that can be used with `objection` or just Frida itself.
+-   Interact with the filesystem, listing entries as well as upload & download files where permitted.
+-   Perform various memory related tasks, such as listing loaded modules and their respective exports.
+-   Attempt to bypass and simulate jailbroken or rooted environments.
+-   ```Discover loaded classes and list their respective methods.```
+-   Perform common SSL pinning bypasses.
+-   Dynamically dump arguments from methods called as you use the target application.
+-   Interact with SQLite databases inline without the need to download the targeted database and use an external tool.
+-   Execute custom Frida scripts.
