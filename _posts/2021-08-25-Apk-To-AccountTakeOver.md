@@ -26,13 +26,13 @@ tags: [Apk, TakeOver]
 > <html><body><b><p style="color:#A52A2A;font-size:25px">SSL Pinning Bypass:</p></b></body></html>
 
 <br>يب قبل نتكلم عن طرق التخطي خلونا ناخذ فكرة بسيطة وسطحية عن إيش هو من الأساس ؟
-```SSL Pinnig:``` <br>
+<br>```SSL Pinnig:``` <br>
  بطرق مختلفة مثل(Pinned == Hard Coded) بداخل التطبيق تكون trustful certificates بكل بساطة خلونا نقول يكون فيه  
 - Certificate
 - Public Key
 - Hash
 
- الكونيكشن بيتعطل MisMatch وإذا كان فيه أي Certificate  يقوم الكلاينت سايد بالتأكد من الـ Conection Establishment وفي خلال عملية الـ 
+ الكونيكشن بيتعطل MisMatch وإذا كان فيه أي Certificate  يقوم الكلاينت سايد بالتأكد من الـ <br> Conection Establishment وفي خلال عملية الـ 
 
 طيب بعد ماأخذنا نبذة سطحية عن الموضوع (الموضوع أكبر من كذا بكثير جدا) خلونا الحين نذكر بعض طرق التخطي
  تصير لازم بطريقة أو بأخرى نوقف العملية هذي علشان نصير قادرين نكون طرف ثالث في منتصف الكونيكشن ونقدر نعترض الترافيك Check زي ماقلنا فوق فيه عملية 
