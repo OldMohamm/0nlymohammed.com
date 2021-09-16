@@ -1,26 +1,25 @@
 ---
-title: Bypassing AppLocker and CLM
-author: Z0ldyck
+title: The journey from (.apk) to Account TakeOver
+author: Mesh3l_911
 date: 2021-08-25 18:32:00 -0500
 categories: [Blogging, Tutorial]
-tags: [Applocker, CLM]
+tags: [sslpinning, frida, adb, objection, , CLM, CLM]
 ---
 
 
-## What is AppLocker?
+<p class="aligncenter">
+    <img src="/pics/LOGO.png" alt="centered image" />
+</p>
+> <html><body><b><p style="color:#A52A2A;font-size:25px">Agenda:</p></b></body></html>
 
-<html>
-  <div dir="auto">
-    ال AppLocker هو عبارة عن برنامج موجود في ال Windows يقدر يقيد البرامج الثانية كال executable files. و ال AppLocker rules تكتب لخمس فئات:
-    </div>
-</html>
+<ul><li><b>SSL Pinning Bypass</b></li></ul>
+<ul><li><b>Network Traffic Analysis</b></li></ul>
+<ul><li><b>Basic Dynamic Analysis(Genymotion, adb, Frida, Objection)</b></li></ul>
+<ul><li><b>Basic Static Analysis( Jadx-GUI )</b></li></ul>
+<ul><li><b>Weak Encryption Algorithm</b></li></ul>
+<ul><li><b>Password Generator(Crunch + Cusom Java script)</b></li></ul>
+<ul><li><b>Account TakeOver</b></li></ul>
 
-
-- Executable
-- Windows Installer
-- Script
-- Packaged App
-- DLLs
 
 ## Bypassing AppLocker
 <html>
