@@ -216,14 +216,14 @@ Encryption Algorithm الحين الهدف صار إننا ندور على ال�
  <br>
  Frida-tools هنا راح نستخدم وحدة من الـ
  <br>
-` frida-ps -U ` : list running processes
+`frida-ps -U` : list running processes
 <br>
    ![](../../posts_pics/7.gif)
 <br>
 <br>
 `objection --gadget Package_Name explore` بعد ماطلعت إسم الباكج الحين راح نستخدمه في الـ 
 <br>
-` android hooking list classes `
+`android hooking list classes`
 <br>
    ![](../../posts_pics/8_11.png)
 <br>
