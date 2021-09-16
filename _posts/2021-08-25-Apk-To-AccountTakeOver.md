@@ -24,12 +24,13 @@ tags: [Apk, TakeOver]
 <ul><li><b>Account TakeOver</b></li></ul><br>
 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">SSL Pinning Bypass:</p></b></body></html>
-طيب قبل نتكلم عن طرق التخطي خلونا ناخذ فكرة بسيطة وسطحية عن إيش هو من الأساس ؟
+
+<br>يب قبل نتكلم عن طرق التخطي خلونا ناخذ فكرة بسيطة وسطحية عن إيش هو من الأساس ؟
 ```SSL Pinnig:``` 
  بطرق مختلفة مثل(Pinned == Hard Coded) بداخل التطبيق تكون trustful certificates بكل بساطة خلونا نقول يكون فيه  
--Certificate
--Public Key
--Hash
+- Certificate
+- Public Key
+- Hash
 
  الكونيكشن بيتعطل MisMatch وإذا كان فيه أي Certificate  يقوم الكلاينت سايد بالتأكد من الـ Conection Establishment وفي خلال عملية الـ 
 
@@ -37,23 +38,21 @@ tags: [Apk, TakeOver]
  تصير لازم بطريقة أو بأخرى نوقف العملية هذي علشان نصير قادرين نكون طرف ثالث في منتصف الكونيكشن ونقدر نعترض الترافيك Check زي ماقلنا فوق فيه عملية 
  
 :التالي Process فيه بعض الطرق تعتمد على الـ 
-1-Identifying the CLASS
-2-Identifying the method
-3-Finding the return value
-4-Modifying the return value
+- Identifying the CLASS
+- Identifying the method
+- Finding the return value
+- Modifying the return value
 
 من هذي الطرق 
 - SSLUnpinning - Xposed Module ( تطبيقات جاهزة وهذا سيناريو اليوم )
 - Objection 
 - Custom Frida Scripts
 
-طيب ندخل في سيناريو اليوم , زي ماذكرت استخدمنا الطريقة الأولى بس قبل مانستخدمها على عماها خلونا نفهم وش اللي يصير خلف الكواليس 
+<br>طيب ندخل في سيناريو اليوم , زي ماذكرت استخدمنا الطريقة الأولى بس قبل مانستخدمها على عماها خلونا نفهم وش اللي يصير خلف الكواليس 
  UnSSLPinning هنا كلام من الريبو الرسمي الخاص ببروجكت
  
  ``` 
- 
 If you need to intercept the traffic from an app which uses certificate pinning, with a tool like Burp Proxy, the SSLUnpinning will help you with this hard work! The SSLUnpinning through Xposed Framework, makes several hooks in SSL classes to bypass the certificate verifications for one specific app, then you can intercept all your traffic
-
 ```
 
  ويطبق عليه البروسيس المذكور فوق Common Libraries طيب معليكم من فلسفتهم الزايدة , بكل إختصار لو نشوف السورس كود الخاص بالبرنامج هو يعتمد بشكل كامل على بعض الـ 
