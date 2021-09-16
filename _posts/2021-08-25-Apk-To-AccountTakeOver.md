@@ -33,6 +33,7 @@ tags: [Apk, TakeOver]
 - Hash
 
 Conection Establishment وفي خلال عملية الـ
+ <br>
  الكونيكشن بيتعطل MisMatch وإذا كان فيه أي Certificate  يقوم الكلاينت سايد بالتأكد من الـ  
 
 طيب بعد ماأخذنا نبذة سطحية عن الموضوع (الموضوع أكبر من كذا بكثير جدا) خلونا الحين نذكر بعض طرق التخطي
@@ -58,6 +59,7 @@ Conection Establishment وفي خلال عملية الـ
 If you need to intercept the traffic from an app which uses certificate pinning, with a tool like Burp Proxy, the SSLUnpinning will help you with this hard work! The SSLUnpinning through Xposed Framework, makes several hooks in SSL classes to bypass the certificate verifications for one specific app, then you can intercept all your traffic
 ```
 طيب معليكم من فلسفتهم الزايدة , بكل إختصار لو نشوف السورس كود الخاص بالبروجكت
+<br>
  ويطبق عليه البروسيس المذكور فوق Common Libraries  هو يعتمد بشكل كامل على بعض الـ 
 
 وبكذا بعد ماعرفنا خلونا نطبق :
