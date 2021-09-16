@@ -65,8 +65,10 @@ If you need to intercept the traffic from an app which uses certificate pinning,
 ```
 طيب معليكم من فلسفتهم الزايدة , بكل إختصار لو نشوف السورس كود الخاص بالبروجكت
 <br>
- ويطبق عليه البروسيس المذكور فوق Common Libraries  هو يعتمد بشكل كامل على بعض الـ 
-
+ Common Libraries  هو يعتمد بشكل كامل على بعض الـ 
+<br>
+ ويطبق عليه البروسيس المذكور فوق
+ <br>
 okhttp3 ومنها اللي كانت موجودة بسيناريو اليوم
 <br>
  decompiled apk source code طيب كيف عرفنا التطبيق يستخدمها ؟ عن طريق الـ  
