@@ -248,11 +248,20 @@ Encryption Algorithm الحين الهدف صار إننا ندور على ال�
 <br>
 `objection --gadget Package_Name explore` 
 <br>
+هنا نسوي ليست لكل الكلاسز
+<br>
+that are being loaded at run-time
+<br>
 `android hooking list classes`
 <br>
    ![](../../posts_pics/8_11.png)
 <br>
 <br>
+<br>
+ وبعد ماوصلنا لأسماء الكلاسز نبدأ نسوي دمب لكل الميثودز الموجودة بكل كلاس 
+  <br>
+  ```android hooking watch class Class_Name```
+  <br>
 Login وهنا نشوف وصلنا للـ
 <br>
   لأن كان هدفي من البداية أشوف وش من البارامترز بالضبط  
