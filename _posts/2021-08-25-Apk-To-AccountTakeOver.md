@@ -125,3 +125,29 @@ SSLUnpinning - Xposed Module وهنا الـ
 <br>
 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Network Traffic Analysis:</p></b></body></html>
+
+ :توصلت لثلاث أشياء API endpoints بعد فحص بعض الـ 
+<br>
+-  Rate Limit مافيه أي 
+-  بمجرد عمل ريسيت للباسورد راح يتم عمل باسوورد جديد مكون من 4 أرقام فقط ( بإعتبار الشخص مفروض يدخل وبعدين يغيره )
+-   Encryption صاير لها Request Body النقطة الأخيرة وهي اللي جابت كل الشغل اللي تحت كانت قيم المتغيرات فالـ  
+
+Encrypted فهنا كل اللي علينا نسوي ريسيت باسوورد على أي حساب وبعد مايصير الباسوورد مجرد 4 أرقام نبدأ بتخمينها بحكم إن مافيه ريت ليمت , لكن المشكلة قيم البارامترز كانت 
+<br>
+ مثل 0000 أو 9999 وأبدأ أخمن لأن الباك ايند سيرفر ماراح يتعرف عليها أبدأ  Clear Text Passwords بما معناه ماأقدر أحط 
+ <br>
+ بلشة صح ؟ اتفق 
+ <br>
+ <br>
+  Encryption لاحظوا هنا قيمة الباسوورد , على فكرة أنا أدخلتها 0000 بس زي ماذكرت فيه عملية 
+  <br>
+  ![](../../posts_pics/3.png)
+<br>
+<br>
+ Login endpoint وهنا للتأكيد مافيه أي ريت ليمت على الـ 
+ <br>
+   ![](../../posts_pics/4.png)
+<br>
+<br>
+
+> <html><body><b><p style="color:#A52A2A;font-size:25px">Network Traffic Analysis:</p></b></body></html>
