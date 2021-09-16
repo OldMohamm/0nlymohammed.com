@@ -137,8 +137,9 @@ SSLUnpinning - Xposed Module وهنا الـ
 Encrypted  لكن المشكلة قيم البارامترز كانت 
 <br>
 
- مثل 0000 أو 9999 وأبدأ أخمن لأن الباك ايند سيرفر ماراح يتعرف عليها أبدأ Clear Text Passwords بما معناه مأقدر أرسل 
+ مثل 0000 أو 9999 وأبدأ أخمن لأن الباك ايند سيرفر ماراح يتعرف عليها أبدأ Clear Text Passwords ماأقدر أرسل 
  
+ <br>
  <br>
  بلشة صح ؟ اتفق 
  <br>
@@ -153,5 +154,9 @@ Encrypted  لكن المشكلة قيم البارامترز كانت
    ![](../../posts_pics/4.png)
 <br>
 <br>
-
+:والآن نقول بسم الله تونا نبدأ 
+<br>
+   ![](../../posts_pics/happ.gif)
+<br>
+<br>
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Network Traffic Analysis:</p></b></body></html>
