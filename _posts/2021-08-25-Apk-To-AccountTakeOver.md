@@ -27,12 +27,13 @@ tags: [Apk, TakeOver]
 
 <br>يب قبل نتكلم عن طرق التخطي خلونا ناخذ فكرة بسيطة وسطحية عن إيش هو من الأساس ؟
 <br>```SSL Pinnig:``` <br>
- بطرق مختلفة مثل(Pinned == Hard Coded) بداخل التطبيق تكون trustful certificates بكل بساطة خلونا نقول يكون فيه  
+ بطرق مختلفة مثل(Pinned == Hard Coded) بداخل التطبيق تكون trustful certificates بكل بساطة خلونا نقول فيه  
 - Certificate
 - Public Key
 - Hash
 
- الكونيكشن بيتعطل MisMatch وإذا كان فيه أي Certificate  يقوم الكلاينت سايد بالتأكد من الـ <br> Conection Establishment وفي خلال عملية الـ 
+Conection Establishment وفي خلال عملية الـ
+ الكونيكشن بيتعطل MisMatch وإذا كان فيه أي Certificate  يقوم الكلاينت سايد بالتأكد من الـ  
 
 طيب بعد ماأخذنا نبذة سطحية عن الموضوع (الموضوع أكبر من كذا بكثير جدا) خلونا الحين نذكر بعض طرق التخطي
  تصير لازم بطريقة أو بأخرى نوقف العملية هذي علشان نصير قادرين نكون طرف ثالث في منتصف الكونيكشن ونقدر نعترض الترافيك Check زي ماقلنا فوق فيه عملية 
@@ -54,8 +55,8 @@ tags: [Apk, TakeOver]
  ``` 
 If you need to intercept the traffic from an app which uses certificate pinning, with a tool like Burp Proxy, the SSLUnpinning will help you with this hard work! The SSLUnpinning through Xposed Framework, makes several hooks in SSL classes to bypass the certificate verifications for one specific app, then you can intercept all your traffic
 ```
-
- ويطبق عليه البروسيس المذكور فوق Common Libraries طيب معليكم من فلسفتهم الزايدة , بكل إختصار لو نشوف السورس كود الخاص بالبرنامج هو يعتمد بشكل كامل على بعض الـ 
+طيب معليكم من فلسفتهم الزايدة , بكل إختصار لو نشوف السورس كود الخاص بالبروجكت
+ ويطبق عليه البروسيس المذكور فوق Common Libraries  هو يعتمد بشكل كامل على بعض الـ 
 
 وبكذا بعد ماعرفنا خلونا نطبق :
 
