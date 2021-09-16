@@ -218,7 +218,7 @@ Encryption Algorithm الحين الهدف صار إننا ندور على ال�
  <br>
 `frida-ps -U` : list running processes
 <br>
-   ![](../../posts_pics/7.gif)
+   ![](../../posts_pics/7.png)
 <br>
 <br>
 `objection --gadget Package_Name explore` بعد ماطلعت إسم الباكج الحين راح نستخدمه في الـ 
