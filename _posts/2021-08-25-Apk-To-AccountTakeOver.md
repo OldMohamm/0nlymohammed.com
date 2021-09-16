@@ -73,7 +73,9 @@ If you need to intercept the traffic from an app which uses certificate pinning,
  <br>
 okhttp3 ومنها اللي كانت موجودة بسيناريو اليوم
 <br>
- decompiled apk source code طيب كيف عرفنا التطبيق يستخدمها ؟ عن طريق الـ  
+طيب كيف عرفنا التطبيق يستخدمها ؟
+<br>
+ decompiled apk source code  عن طريق الـ  
 <br>
 <br>
 :<b>وبكذا بعد ماعرفنا خلونا نطبق</b>
