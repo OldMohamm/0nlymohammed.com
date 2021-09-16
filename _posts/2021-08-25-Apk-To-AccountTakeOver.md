@@ -189,7 +189,7 @@ Encryption Algorithm الحين الهدف صار إننا ندور على ال�
 - ```Frida```:it’s a dynamic code instrumentation toolkit. It lets you inject snippets of JavaScript or your own library into native apps on Windows, macOS, GNU/Linux, iOS, Android, and QNX. Frida also provides you with some simple tools built on top of the Frida API<br>
 - ```Objection```:is a runtime mobile exploration toolkit, powered by [Frida](https://www.frida.re/), built to help you assess the security posture of your mobile applications<br><br>
 
-بعد ماعرفنا المصطلحات ندخل على التطبيق 
+بعد ماعرفنا التولز نبدأ بسم الله نطبق 
 <br>
 <br>
   adb عن طريق Emulator بعد ماننزل التولز اللي فوق نتصل بالجهاز الموجود بالـ 
