@@ -258,7 +258,7 @@ Decompile the (.apk) file using ( jadx-GUI )
      ![](../../posts_pics/12.png)
 <br>
 <br>
--   Weak Encryption Algorithm:
+- <b>Weak Encryption Algorithm:</b>
 
 Encryptionهنا الفنكشن المسؤولة عن الـ 
 <br>
