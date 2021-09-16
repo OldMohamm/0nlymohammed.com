@@ -1,9 +1,9 @@
 ---
-title: Bypassing AppLocker and CLM
-author: Z0ldyck
+title: The journey from (.apk) to Account TakeOver
+author: Mesh3l_911
 date: 2021-08-25 18:32:00 -0500
 categories: [Blogging, Tutorial]
-tags: [Applocker, CLM]
+tags: [Apk, TakeOver]
 ---
 
 
