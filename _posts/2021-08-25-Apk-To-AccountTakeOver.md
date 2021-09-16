@@ -43,7 +43,7 @@ Conection Establishment وفي خلال عملية الـ
 - Identifying the CLASS
 - Identifying the method
 - Finding the return value
-- Modifying the return value
+- Hooking the method and modifying the return value
 
 من هذي الطرق 
 - SSLUnpinning - Xposed Module ( تطبيقات جاهزة وهذا سيناريو اليوم )
@@ -62,6 +62,12 @@ If you need to intercept the traffic from an app which uses certificate pinning,
 <br>
  ويطبق عليه البروسيس المذكور فوق Common Libraries  هو يعتمد بشكل كامل على بعض الـ 
 
-وبكذا بعد ماعرفنا خلونا نطبق :
-
-
+ decompiled apk source code طيب كيف عرفنا التطبيق يستخدمها ؟ عن طريق الـ okhttp3 ومنها اللي كانت موجودة بسيناريو اليوم 
+<br>
+:وبكذا بعد ماعرفنا خلونا نطبق
+<br>
+ SSL Pinning هنا أول ماإكتشفت إن فيه 
+<br>
+<p>
+    <img src="/posts_pics/-1.png" />
+</p>
