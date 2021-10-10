@@ -37,7 +37,7 @@ DNS record</ul>
 <ul><li><b>Shell Escaper v1.0</b></li> <br>
 A tool that automates the process of extracting the Shell Escape
 Sequences for Binaries with Setuid bit and Sudo out of GTFOBins
-with three differint ways both locally and remotely</ul>
+with three different ways both locally and remotely</ul>
 <ul><li><b>Redirecter v1.0</b></li> <br>
 A tool that automates the process of testing web applications
 against Open Redirection vulnerabilities</ul>
@@ -97,6 +97,12 @@ Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a
 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Competitions:</p></b></body></html>
 
+<ul><li><b>First place ( 1st ) in Saudi Aramco CyberSecurity Chair 2021 with my team ( Potato )</b></li> <br>
+Saudi Aramco CyberSecurity Chair CTF was to all cybersecurity students and recent graduates in SaudiArabia where 170 teams have participated from 41 different universities with a total of 807 compititors</ul>
+
+<ul><li><b>First place ( 1st ) in CyberTalents Saudi Arabia National CTF in Finals with my team ( PeakyBlinders ) - 2021</b></li> <br>
+Got qualified for the Arab and Africa Regional CTF ( among more than 25
+countries)    
 <ul><li><b>First place ( 1st ) in Watad CTF 2021 ( PeakyBlinders )</b></li> <br>
 Watad's CTF was to all cybersecurity engineers & pentesters in SaudiArabia where 42 teams have participated with a total of 100+ compititors</ul>
     
@@ -328,6 +334,20 @@ Getting Command Injection through python subprocess Module <br>
   </div>
 </div>
 
+ <div class="w3-display-container mySlides">
+  <img src="../../pics/cybertalents_3.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    CyberTalents's CTF 2021
+  </div>
+</div>
+    
+ <div class="w3-display-container mySlides">
+  <img src="../../pics/IAU.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    Saudi Aramco Chair's CTF 2021
+  </div>
+</div>
+    
   <div class="w3-display-container mySlides">
   <img src="../../pics/CyberTalents(1st)-ind.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
