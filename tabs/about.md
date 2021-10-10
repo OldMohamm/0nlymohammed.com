@@ -102,7 +102,7 @@ Saudi Aramco CyberSecurity Chair CTF was to all cybersecurity students and recen
 
 <ul><li><b>First place ( 1st ) in CyberTalents Saudi Arabia National CTF in Finals with my team ( PeakyBlinders ) - 2021</b></li> <br>
 Got qualified for the Arab and Africa Regional CTF ( among more than 25
-countries)    
+countries)</ul> 
 <ul><li><b>First place ( 1st ) in Watad CTF 2021 ( PeakyBlinders )</b></li> <br>
 Watad's CTF was to all cybersecurity engineers & pentesters in SaudiArabia where 42 teams have participated with a total of 100+ compititors</ul>
     
