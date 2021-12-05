@@ -125,13 +125,14 @@ countries )</ul>
 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Articles</p></b></body></html>
 
-<ul><li><b>The journey from (.apk) to Account TakeOver:</b></li> <br>
- In this Article I stated my jouney that endup with getting full acount TakeOver in android's app [ SSL Pinning Bypass > Network Traffic Analysis > Basic Dynamic Analysis(Genymotion, adb, Frida, Objection) > Basic Static Analysis( Jadx-GUI ) > Weak Encryption Algorithm > Password Generator(Crunch + Cusom Java script) > Account TakeOver ]  <br>
-<a href="https://mesh3l-911.medium.com/out-of-band-technique-dns-exfiltration-b0324c8ef281">Out Of Band technique - DNS Exfiltration</a></ul>
-
  <ul><li><b>Out Of Band technique - DNS Exfiltration:</b></li> <br>
  In this Article I illustrated [ Blind Command Injection ( White Box ), Blind Command Injection ( Black Box ), Out Of Band technique, DNS Exfiltration, Burb Collaborator, AWS ( EC2 , inbound rules ) +Godaddy, Tcpdump, Responder.py and Bind9 DNS Server ]  <br>
 <a href="https://mesh3l-911.medium.com/out-of-band-technique-dns-exfiltration-b0324c8ef281">Out Of Band technique - DNS Exfiltration</a></ul>
+
+<ul><li><b>The journey from (.apk) to Account TakeOver:</b></li> <br>
+ In this Article I stated my jouney that endup with getting full acount TakeOver in android's app [ SSL Pinning Bypass > Network Traffic Analysis > Basic Dynamic Analysis(Genymotion, adb, Frida, Objection) > Basic Static Analysis( Jadx-GUI ) > Weak Encryption Algorithm > Password Generator(Crunch + Cusom Java script) > Account TakeOver ]  <br>
+<a href="https://mesh3l911.github.io/posts/Apk-To-AccountTakeOver/">The journey from (.apk) to Account TakeOver</a></ul>
+
 <ul><li><b>Referrer Header Bypass > CSRF > Running Process endpoint > RCE > 0days > 3 CVEs > Webmin HOF:</b></li> <br>
 In this Article we illustrated how did we approach our findings in Webmin<br>
 <a href="https://mesh3l-911.medium.com/referrer-header-bypass-csrf-running-process-endpoint-rce-0days-3-cves-webmin-hof-d721e9ce4b53/">Webmin's Write-up</a></ul>  
