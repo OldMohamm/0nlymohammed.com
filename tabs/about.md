@@ -168,6 +168,8 @@ Getting Command Injection through python subprocess Module <br>
 
  > <html><body><b><p style="color:#A52A2A;font-size:25px">POCs & Automation</p></b></body></html>
 
+<ul><li><b>Sub Search:</b></li> <br>
+<a href="https://youtu.be/SLzJJclo4yY/">Sub Search</a></ul>
 <ul><li><b>JS Scrapper:</b></li> <br>
 <a href="https://www.youtube.com/watch?v=LqD_1LdC2Aw/">JS Scrapper</a></ul>
 <ul><li><b>Shell_Escaper v1.0:</b></li> <br>
