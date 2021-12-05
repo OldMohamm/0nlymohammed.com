@@ -374,7 +374,7 @@ Getting Command Injection through python subprocess Module <br>
  <div class="w3-display-container mySlides">
   <img src="../../pics/Sub_Search.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    JS_Scrapper_Output
+    Sub_Search
   </div>
 </div>
     
