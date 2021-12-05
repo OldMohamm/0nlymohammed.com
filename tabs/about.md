@@ -17,7 +17,7 @@ Penetration Tester since (Sep,2020) (Part Time)<br></ul>
 
 <ul><li><b>Web Application Penetration Testing eXtreme( eWPTXv2 )</b></li> <br>
 eLearnSecurity</ul>
-<ul><li><b>Offensive Security Certified Professional (OSCP)</b></li> <br>
+<ul><li><b>Offensive Security Certified Professional ( OSCP )</b></li> <br>
 Offensive</ul>
 <ul><li><b>Web Application Penetration Testing ( eWPT )</b></li> <br>
 eLearnSecurity</ul>
@@ -30,6 +30,8 @@ ETS TOEFL ( Score: 71 )</ul>
   
 > <html><body><b><p style="color:#A52A2A;font-size:25px">PERSONAL PROJECTS:</p></b></body></html>
 
+ <ul><li><b>Sub Search v1.0</b></li> <br>
+A tool that automates the process of Getting all levels of subdomains that have A dns record by brute-forcing forward DNS lookup (recursively) </ul>
 <ul><li><b>Sub_Analyser v1.0</b></li> <br>
 A tool that automates the process of testing web applications
 against Sub-Domain TakeOver vulnerabilities based on the CNAME
@@ -123,7 +125,11 @@ countries )</ul>
 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Articles</p></b></body></html>
 
-<ul><li><b>Out Of Band technique - DNS Exfiltration:</b></li> <br>
+<ul><li><b>The journey from (.apk) to Account TakeOver:</b></li> <br>
+ In this Article I stated my jouney that endup with getting full acount TakeOver in android's app [ SSL Pinning Bypass > Network Traffic Analysis > Basic Dynamic Analysis(Genymotion, adb, Frida, Objection) > Basic Static Analysis( Jadx-GUI ) > Weak Encryption Algorithm > Password Generator(Crunch + Cusom Java script) > Account TakeOver ]  <br>
+<a href="https://mesh3l-911.medium.com/out-of-band-technique-dns-exfiltration-b0324c8ef281">Out Of Band technique - DNS Exfiltration</a></ul>
+
+ <ul><li><b>Out Of Band technique - DNS Exfiltration:</b></li> <br>
  In this Article I illustrated [ Blind Command Injection ( White Box ), Blind Command Injection ( Black Box ), Out Of Band technique, DNS Exfiltration, Burb Collaborator, AWS ( EC2 , inbound rules ) +Godaddy, Tcpdump, Responder.py and Bind9 DNS Server ]  <br>
 <a href="https://mesh3l-911.medium.com/out-of-band-technique-dns-exfiltration-b0324c8ef281">Out Of Band technique - DNS Exfiltration</a></ul>
 <ul><li><b>Referrer Header Bypass > CSRF > Running Process endpoint > RCE > 0days > 3 CVEs > Webmin HOF:</b></li> <br>
