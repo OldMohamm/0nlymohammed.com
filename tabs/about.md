@@ -68,10 +68,11 @@ testing fundamentals</b></li></ul>
 detection bypasses <br>
 -Windows Buffer Overflows</ul>
 
-> <html><body><b><p style="color:#A52A2A;font-size:25px">CVEs</p></b></body></html>
+
+    > <html><body><b><p style="color:#A52A2A;font-size:25px">CVEs</p></b></body></html>
 
 <ul><li><b>CVE-2021-44659:</b></li> <br>
-Adding a new pipline in the GoCD server has a functionality that could be abused to do an un-intended action in order to achieve a Server Side Request Forgery(SSRF)
+Adding a new pipline in the GoCD server has a functionality that could be abused to do an un-intended action in order to achieve a Server Side Request Forgery(SSRF)<br><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44659">CVE-2021-3138</a></ul>
 <ul><li><b>CVE-2021-3138:</b></li> <br>
  Discourse 2.7.0 - Rate limit Bypass which leads to 2FA Bypass <br>
 <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3138/">CVE-2021-3138</a></ul>
