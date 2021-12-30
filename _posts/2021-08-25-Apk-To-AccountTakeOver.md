@@ -1,9 +1,9 @@
 ---
-title: The journey from (.apk) to Account TakeOver
-author: Mesh3l_911
+title: Nginx Merge Slashes Path Traversal
+author: Mohammed Amer
 date: 2021-08-25 18:32:00 -0500
 categories: [Blogging, Tutorial]
-tags: [Apk, TakeOver]
+tags: [Web, Path Traversal]
 ---
 
 
