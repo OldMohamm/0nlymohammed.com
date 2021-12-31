@@ -42,20 +42,15 @@ Penetration Tester at intigriti since (Aug,2021)(Part Time) </ul>
 testing ( SAST/DAST )</b></li></ul>
 <ul><li><b>Experienced with OWASP Web/Api standards and processes
 for conducting penetration testing</b></li></ul>
-<ul><li><b>PYTHON coder and familiar with C,JAVA ,PHP and BASH basics</b></li></ul>
+<ul><li><b>PYTHON coder and familiar with Ruby,Javascript ,PHP and BASH basics</b></li></ul>
 <ul><li><b>Experienced with the Windows/linux Servers, Azure, AWS
 testing fundamentals</b></li></ul>
 <ul><li><b>Fundamentals of :</b></li> <br>
--Linux/Windows Privileges escalation <br>
 -Regular Expressions <br>
 -IOS/Android SSL Pinning and Root
 detection bypasses <br>
 -BOF</ul>
-
-
-    > <html><body><b><p style="color:#A52A2A;font-size:25px">CVEs</p></b></body></html>
-<ul><li><b>بأذن الله قريبا بيكون CVEs:</b></li> <br>
-  
+    
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Acknowledgments</p></b></body></html>
 <ul><li><b>Apple Hall Of Fame:</b></li> <br>
 <a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a></ul>
