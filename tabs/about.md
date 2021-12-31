@@ -89,7 +89,7 @@ Among ( more than 200 teams )</ul>
 
 
 <ul><li><b>nginx merge slashes path traversal:</b></li> <br>
- Well this is my first article about path traversal <br>
+Well this is my first article about path traversal <br>
 <a href="https://medium.com/@0nlymohammed/nginx-merge-slashes-path-traversal-bc3793fc1594">Common Nginx Misconfigurations</a></ul>
 
 <html><body><b><p style="color:#A52A2A;font-size:25px">POCs & Automation</p></b></body></html>
@@ -103,7 +103,7 @@ Among ( more than 200 teams )</ul>
 <ul><i class="fab fa-medium"></i> <a href="https://medium.com/@0nlymohammed/"> 0nlymohammed's Medium account</a></ul>
 <br>
  
- > <html><body><b><p style="color:#A52A2A;font-size:25px">Images</p></b></body></html>
+ <html><body><b><p style="color:#A52A2A;font-size:25px">Images</p></b></body></html>
  <html>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
