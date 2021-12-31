@@ -8,7 +8,7 @@ tags: [Web, Path Traversal]
 
 
 <p class="aligncenter">
-    <img src="/pics/LOGO.png" alt="centered image" />
+    <img src="/pics/0nlymohammed.png" alt="centered image" />
 </p>
 
 <center><b> ^_^ السلام عليكم ورحمة الله وبركاته, يالله حيهم </b></center><br> 
