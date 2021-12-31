@@ -4,17 +4,23 @@
 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Who Am I?</p></b></body></html>
 
-<b>Hello reader, My name is Mohammed or as known as<b> ```0nlymohammed```. I am a CyberSecurity Specialist . I started learning about Network and Penetration Testing while I am in High School. Before High School, I had some experience with programming and Windows Server. I will be sharing here everything that I achieved in 2021. Most of my work will be based on Personal findings, HackerOne, intigriti, Portswigger, Bugcrowed, Bugv, CTF competitions and more.</b>
+<b>Hello the one who read, My name is Mohammed or known as<b> ```0nlymohammed```. I am a CyberSecurity Specialist . I started learning about Network and Penetration Testing while I am in High School. Before High School, I had some experience with programming and Windows Server. I will be sharing here everything that I achieved in 2021. Most of my work will be based on Personal findings, HackerOne, intigriti, Portswigger, Bugcrowed, Bugv, CTF competitions and more.</b>
 <br>
 <br>
 
 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">WORK EXPERIENCE:</p></b></body></html>
 
-<ul><li><b>Synack Red Team member</b></li> <br>
-Penetration Tester at Synack since (Jul,2021)(Part Time) </ul>
+<ul><li><b>HackerOne</b></li> <br>
+Penetration Tester at HackerOne since (Dec,2020)(Part Time) </ul>
 <ul><li><b>Saudi Federation for Cybersecurity, Programming and Drones</b></li> <br>
-Penetration Tester since (Sep,2020) (Part Time)<br></ul>
+Penetration Tester since (2021) (Part Time)<br></ul>
+<ul><li><b>Bugcrowed</b></li> <br>
+Penetration Tester at Bugcrowed since (Aug,2021)(Part Time) </ul>
+<ul><li><b>EarthLink</b></li> <br>
+Penetration Tester at EarthLink since (Nov,2021)(Part Time) </ul>
+<ul><li><b>intigriti</b></li> <br>
+Penetration Tester at intigriti since (Aug,2021)(Part Time) </ul>
  
 > <html><body><b><p style="color:#A52A2A;font-size:25px">COURSES & CERTIFICATIONS:</p></b></body></html>
 
@@ -474,6 +480,7 @@ function showDivs(n) {
   x[slideIndex-1].style.display = "block";  
 }
 </script>
+ </center>
 </body>
 </html>
 <br><br>
