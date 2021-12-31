@@ -10,15 +10,15 @@
 
 <html><body><b><p style="color:#A52A2A;font-size:25px">WORK EXPERIENCE:</p></b></body></html>
 <ul><li><b>HackerOne</b></li> <br>
-Penetration Tester at HackerOne since (Dec,2020)(Part Time) </ul>
+Security Researcher at HackerOne since (Dec,2020)(Part Time) </ul>
 <ul><li><b>Saudi Federation for Cybersecurity, Programming and Drones</b></li> <br>
-Penetration Tester since (2021) (Part Time)<br></ul>
+Security Researcher since (2021) (Part Time)<br></ul>
 <ul><li><b>Bugcrowed</b></li> <br>
-Penetration Tester at Bugcrowed since (Aug,2021)(Part Time) </ul>
+Security Researcher at Bugcrowed since (Aug,2021)(Part Time) </ul>
 <ul><li><b>EarthLink</b></li> <br>
-Penetration Tester at EarthLink since (Nov,2021)(Part Time) </ul>
+Security Researcher at EarthLink since (Nov,2021)(Part Time) </ul>
 <ul><li><b>intigriti</b></li> <br>
-Penetration Tester at intigriti since (Aug,2021)(Part Time) </ul>
+Security Researcher at intigriti since (Aug,2021)(Part Time) </ul>
 
 
 <html><body><b><p style="color:#A52A2A;font-size:25px">EVENTS:</p></b></body></html>
