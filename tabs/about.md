@@ -8,7 +8,7 @@
 <br>
 
 
-> <html><body><b><p style="color:#A52A2A;font-size:25px">WORK EXPERIENCE:</p></b></body></html>
+<html><body><b><p style="color:#A52A2A;font-size:25px">WORK EXPERIENCE:</p></b></body></html>
 <ul><li><b>HackerOne</b></li> <br>
 Penetration Tester at HackerOne since (Dec,2020)(Part Time) </ul>
 <ul><li><b>Saudi Federation for Cybersecurity, Programming and Drones</b></li> <br>
@@ -21,11 +21,11 @@ Penetration Tester at EarthLink since (Nov,2021)(Part Time) </ul>
 Penetration Tester at intigriti since (Aug,2021)(Part Time) </ul>
 
 
-> <html><body><b><p style="color:#A52A2A;font-size:25px">EVENTS:</p></b></body></html>
+<html><body><b><p style="color:#A52A2A;font-size:25px">EVENTS:</p></b></body></html>
 <ul><li><b>ATSO iraq 2021</b></li> <br>
 <ul><li><b>DevFest 2021 at University of Technology in Baghdad</b></li> <br>
 
-> <html><body><b><p style="color:#A52A2A;font-size:25px">COURSES & CERTIFICATIONS:</p></b></body></html>
+<html><body><b><p style="color:#A52A2A;font-size:25px">COURSES & CERTIFICATIONS:</p></b></body></html>
 <ul><li><b>NGINX Fundamentals: High Performance Servers</b></li> <br>
 </ul>
 <ul><li><b>The Nuts and Bolts of OAuth 2.0</b></li> <br>
@@ -34,10 +34,10 @@ Penetration Tester at intigriti since (Aug,2021)(Part Time) </ul>
 <ul><li><b>IYELLP Test</b></li> <br>
 </ul>
   
-> <html><body><b><p style="color:#A52A2A;font-size:25px">PERSONAL PROJECTS:</p></b></body></html>
+<html><body><b><p style="color:#A52A2A;font-size:25px">PERSONAL PROJECTS:</p></b></body></html>
  <ul><li><b>Firewall for one million arab coders</b></li> <br>
   firewall using bot API helps protect web applications by filtering and monitoring HTTP traffic between a web application and the Internet. It typically protects web applications from attacks such as cross-site forgery, cross-site-scripting (XSS), file inclusion, and SQL injection</ul>
-> <html><body><b><p style="color:#A52A2A;font-size:25px">TECHNICAL SKILLS:</p></b></body></html>
+<html><body><b><p style="color:#A52A2A;font-size:25px">TECHNICAL SKILLS:</p></b></body></html>
 <ul><li><b>Performing Dynamic/Static web application penetration
 testing ( SAST/DAST )</b></li></ul>
 <ul><li><b>Experienced with OWASP Web/Api standards and processes
@@ -51,7 +51,7 @@ testing fundamentals</b></li></ul>
 detection bypasses <br>
 -BOF</ul>
     
-> <html><body><b><p style="color:#A52A2A;font-size:25px">Acknowledgments</p></b></body></html>
+<html><body><b><p style="color:#A52A2A;font-size:25px">Acknowledgments</p></b></body></html>
 <ul><li><b>Apple Hall Of Fame:</b></li> <br>
 <a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a></ul>
 <ul><li><b>Microsoft Hall Of Fame:</b></li> <br>
@@ -68,7 +68,7 @@ detection bypasses <br>
 <a href="https://unite.un.org/content/un-information-security-hall-fame">UN Information Security Hall of Fame</a></ul>
 
 
-> <html><body><b><p style="color:#A52A2A;font-size:25px">Competitions:</p></b></body></html>
+<html><body><b><p style="color:#A52A2A;font-size:25px">Competitions:</p></b></body></html>
 
 <ul><li><b>first place ( 1st ) iraqi team at ctftime.com All Time </b></li> <br>
 
@@ -82,7 +82,7 @@ got qualified for the Finals
 my team ( Satgate )</b></li> <br>
 Among ( more than 200 teams )</ul>
 
-> <html><body><b><p style="color:#A52A2A;font-size:25px">Articles</p></b></body></html>
+<html><body><b><p style="color:#A52A2A;font-size:25px">Articles</p></b></body></html>
  <ul><li><b>FatPipe Networks WARP Verison — Authorization Bypass:</b></li> <br>
  In This Article I explin how to attack the FatPipe Networks WARP</Article><br>
 <a href="https://medium.com/@0nlymohammed/fatpipe-networks-warp-verison-authorization-bypass-3f7a756f21de">Authorization Bypass</a></ul>
@@ -92,11 +92,11 @@ Among ( more than 200 teams )</ul>
  Well this is my first article about path traversal <br>
 <a href="https://medium.com/@0nlymohammed/nginx-merge-slashes-path-traversal-bc3793fc1594">Common Nginx Misconfigurations</a></ul>
 
- > <html><body><b><p style="color:#A52A2A;font-size:25px">POCs & Automation</p></b></body></html>
+<html><body><b><p style="color:#A52A2A;font-size:25px">POCs & Automation</p></b></body></html>
 <ul><li><b>Firewall project made with a PHP:</b></li> <br>
 <a href="https://github.com/OldMohamm/ArabCoder-Project">Firewall</a></ul>
  
-> <html><body><b><p style="color:#A52A2A;font-size:25px">Accounts</p></b></body></html>
+<html><body><b><p style="color:#A52A2A;font-size:25px">Accounts</p></b></body></html>
 <ul><i class="fab fa-instagram"></i> <a href="https://Instagram.com/0nlymohammed"> 0nlymohammed's Instagram account</a></ul>
 <ul><i class="fab fa-github"></i> <a href="https://github.com/OldMohamm/"> 0nlymohammed's Github account</a></ul> 
 <ul><i class="fab fa-twitter"></i> <a href="https://twitter.com/0nlymohammed/"> 0nlymohammed's Twitter account</a></ul> 
