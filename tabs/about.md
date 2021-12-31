@@ -43,7 +43,7 @@ testing ( SAST/DAST )</b></li></ul>
 <ul><li><b>Experienced with OWASP Web/Api standards and processes
 for conducting penetration testing</b></li></ul>
 <ul><li><b>PYTHON coder and familiar with C,JAVA ,PHP and BASH basics</b></li></ul>
-<ul><li><b>Experienced with the Networks/Networks penetration
+<ul><li><b>Experienced with the Windows/linux Servers, Azure, AWS
 testing fundamentals</b></li></ul>
 <ul><li><b>Fundamentals of :</b></li> <br>
 -Linux/Windows Privileges escalation <br>
