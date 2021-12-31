@@ -24,10 +24,10 @@ Penetration Tester at intigriti since (Aug,2021)(Part Time) </ul>
  
 > <html><body><b><p style="color:#A52A2A;font-size:25px">COURSES & CERTIFICATIONS:</p></b></body></html>
 
-<ul><li><b>Web Application Penetration Testing eXtreme( eWPTXv2 )</b></li> <br>
-eLearnSecurity</ul>
-<ul><li><b>Offensive Security Certified Professional ( OSCP )</b></li> <br>
-Offensive</ul>
+<ul><li><b>NGINX Fundamentals: High Performance Servers</b></li> <br>
+</ul>
+<ul><li><b>The Nuts and Bolts of OAuth 2.0</b></li> <br>
+</ul>
 <ul><li><b>Web Application Penetration Testing ( eWPT )</b></li> <br>
 eLearnSecurity</ul>
 <ul><li><b>Data Analysis using Python</b></li> <br>
@@ -39,8 +39,8 @@ KFUPM ( 10 hours )</ul>
   
 > <html><body><b><p style="color:#A52A2A;font-size:25px">PERSONAL PROJECTS:</p></b></body></html>
 
- <ul><li><b>Sub Search v1.0</b></li> <br>
-A tool that automates the process of Getting all levels of subdomains that have A dns record by brute-forcing forward DNS lookup (recursively) </ul>
+ <ul><li><b>Firewall for one million arab coders</b></li> <br>
+  firewall using bot API helps protect web applications by filtering and monitoring HTTP traffic between a web application and the Internet. It typically protects web applications from attacks such as cross-site forgery, cross-site-scripting (XSS), file inclusion, and SQL injection</ul>
 <ul><li><b>Sub_Analyser v1.0</b></li> <br>
 A tool that automates the process of testing web applications
 against Sub-Domain TakeOver vulnerabilities based on the CNAME
@@ -98,20 +98,20 @@ Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a
 
 <ul><li><b>Apple Hall Of Fame:</b></li> <br>
 <a href="https://support.apple.com/en-us/HT201536/">Apple web server notifications</a></ul>
-<ul><li><b>Webmin Hall Of Fame:</b></li> <br>
-<a href="https://webmin.com/security.html">Webmin's security alerts</a></ul>
-<ul><li><b>GE Healthcare Hall Of Fame:</b></li> <br>
-<a href="https://www.gehealthcare.com/security/cvd/thanks/">GE Healthcare thanks page</a></ul>
-<ul><li><b>Shell Company:</b></li> <br>
-<a href="https://www.shell.com/">Shell Company</a></ul>
-<ul><li><b>Ministry of National Guard:</b></li> <br>
-<a href="https://www.sang.gov.sa/Pages/default.aspx/">Ministry of National Guard</a></ul>
-<ul><li><b>King Fahd University of Petroleum and Minerals:</b></li> <br>
-<a href="http://www.kfupm.edu.sa/">KFUPM </a></ul>
+<ul><li><b>Microsoft Hall Of Fame:</b></li> <br>
+<a href="https://msrc.microsoft.com/update-guide/acknowledgement/online">MSRC Acknowledgements</a></ul>
+<ul><li><b>Redhat Hall Of Fame:</b></li> <br>
+<a href="https://access.redhat.com/articles/66234">Vulnerability Acknowledgements for Red Hat online services</a></ul>
+<ul><li><b>Careem taxi:</b></li> <br>
+<a href="https://security.careem.com/hall-of-fame">Careem</a></ul>
+<ul><li><b>Facebook:</b></li> <br>
+<a href="https://www.facebook.com/whitehat/thanks">Facebook thanks</a></ul>
+<ul><li><b>U.S. Dept Of Defense:</b></li> <br>
+<a href="https://hackerone.com/deptofdefense/thanks/2021?type=team">4th place in DoD  </a></ul>
 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Competitions:</p></b></body></html>
 
-<ul><li><b>First place ( 1st ) in Saudi Aramco CyberSecurity Chair 2021 with my team ( Potato )</b></li> <br>
+<ul><li><b>Second place ( 2nd ) in CyberTalents Iraqi National CTF 2021 with my team ( Satgate )</b></li> <br>
 Saudi Aramco CyberSecurity Chair CTF was to all cybersecurity students and recent graduates in SaudiArabia where 170 teams have participated from 41 different universities with a total of 807 compititors</ul>
 
 <ul><li><b>First place ( 1st ) in CyberTalents Saudi Arabia National CTF in Finals with my team ( PeakyBlinders ) - 2021</b></li> <br>
@@ -137,51 +137,19 @@ countries )</ul>
 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Articles</p></b></body></html>
 
- <ul><li><b>Out Of Band technique - DNS Exfiltration:</b></li> <br>
- In this Article I illustrated [ Blind Command Injection ( White Box ), Blind Command Injection ( Black Box ), Out Of Band technique, DNS Exfiltration, Burb Collaborator, AWS ( EC2 , inbound rules ) +Godaddy, Tcpdump, Responder.py and Bind9 DNS Server ]  <br>
-<a href="https://mesh3l-911.medium.com/out-of-band-technique-dns-exfiltration-b0324c8ef281">Out Of Band technique - DNS Exfiltration</a></ul>
+ <ul><li><b>FatPipe Networks WARP Verison — Authorization Bypass:</b></li> <br>
+ In This Article I explin how to attack the FatPipe Networks WARP</Article><br>
+<a href="https://medium.com/@0nlymohammed/fatpipe-networks-warp-verison-authorization-bypass-3f7a756f21de">Authorization Bypass</a></ul>
 
-<ul><li><b>The journey from (.apk) to Account TakeOver:</b></li> <br>
- In this Article I stated my jouney that endup with getting full acount TakeOver in android's app [ SSL Pinning Bypass > Network Traffic Analysis > Basic Dynamic Analysis(Genymotion, adb, Frida, Objection) > Basic Static Analysis( Jadx-GUI ) > Weak Encryption Algorithm > Password Generator(Crunch + Cusom Java script) > Account TakeOver ]  <br>
-<a href="https://mesh3l911.github.io/posts/Apk-To-AccountTakeOver/">The journey from (.apk) to Account TakeOver</a></ul>
 
-<ul><li><b>Referrer Header Bypass > CSRF > Running Process endpoint > RCE > 0days > 3 CVEs > Webmin HOF:</b></li> <br>
-In this Article we illustrated how did we approach our findings in Webmin<br>
-<a href="https://mesh3l-911.medium.com/referrer-header-bypass-csrf-running-process-endpoint-rce-0days-3-cves-webmin-hof-d721e9ce4b53/">Webmin's Write-up</a></ul>  
-<ul><li><b>Recon > Code Review > 0day > CVE-2021–3138 > Apple HOF:</b></li> <br>
-In this Article I illustrated how did I approach my finding in Apple<br>
-<a href="https://mesh3l-911.medium.com/recon-code-review-0day-cve-2021-3138-apple-hof-647e2cbf55e/">Apple's Write-up</a></ul>
-<ul><li><b>Broken Links Hijacking ( BLH ):</b></li> <br>
-In this topic I talked about chaining Sub domain TakeOver with External File Hijacking 
-( BLH attack ) to get XSS <br>
-<a href="https://twitter.com/Mesh3l_911/status/1398791461769039875?s=20/">Broken Links Hijacking</a></ul>
- <ul><li><b>DNS A record’s Subdomain TakeOver:</b></li> <br>
-I saw alot of misconceptions about Sub-domains TakeOver and it's only about CNAME dns record so in this topic I did a POC in DNS A record’s Subdomain TakeOver  <br>
-<a href="https://twitter.com/Mesh3l_911/status/1391078380150403074?s=20/">DNS A record’s Subdomain TakeOver</a></ul>
-<ul><li><b>BurSuite's Python environment and Rate limit bypass:</b></li> <br>
-Here I talked about adding a python environment to the BurSuite by using jython then I talked about one way that might bypass the rate limit<br>
-<a href="https://twitter.com/Mesh3l_911/status/1344698286985326595?s=20/">BurSuite's Python environment and Rate limit bypass</a></ul>
-<ul><li><b>Creating Digital Ocean's droplet and x2goclient:</b></li> <br>
- Creating Digital Ocean's droplet and then installing x2goclient to get a remote desktop <br>
-<a href="https://twitter.com/Mesh3l_911/status/1344001019412426754?s=20/">Creating Digital Ocean's droplet and x2goclient</a></ul>
- <ul><li><b>How one researcher got 37500 RS from Facebook:</b></li> <br>
-I described here how one researcher was acknowledged by Facebook for finding SSRF <br>
-<a href="https://twitter.com/Mesh3l_911/status/1340861678494359555?s=20/">SSRF in Facebook</a></ul>
-<ul><li><b>Open Redirection escalations:</b></li> <br>
-Multiple ways to escalate the Open Redirection vulnerabilities  <br>
-<a href="https://twitter.com/Mesh3l_911/status/1338678182401150977?s=20/">Open Redirection escalations</a></ul>
-<ul><li><b>Local Route Poisoning:</b></li> <br>
-Jmes Kittle introduced one type of host header injections which's Local Route Poisoning so What's Local Route Poisoning ? and how we can use it to bypass security checks such as Forbidden  <br>
-<a href="https://twitter.com/Mesh3l_911/status/1337960193238380547?s=20/">Local Route Poisoning</a></ul>
-<ul><li><b>Python subprocess Module:</b></li> <br>
-Getting Command Injection through python subprocess Module <br>
-<a href="https://twitter.com/Mesh3l_911/status/1336844985325457410?s=20/">Python subprocess Module command injection</a></ul>
-
+<ul><li><b>nginx merge slashes path traversal:</b></li> <br>
+ Well this is my first article about path traversal <br>
+<a href="https://medium.com/@0nlymohammed/nginx-merge-slashes-path-traversal-bc3793fc1594">Common Nginx Misconfigurations</a></ul>
 
  > <html><body><b><p style="color:#A52A2A;font-size:25px">POCs & Automation</p></b></body></html>
 
-<ul><li><b>Sub Search:</b></li> <br>
-<a href="https://youtu.be/SLzJJclo4yY/">Sub Search</a></ul>
+<ul><li><b>Firewall project made with a PHP:</b></li> <br>
+<a href="https://github.com/OldMohamm/ArabCoder-Project">Firewall</a></ul>
 <ul><li><b>JS Scrapper:</b></li> <br>
 <a href="https://www.youtube.com/watch?v=LqD_1LdC2Aw/">JS Scrapper</a></ul>
 <ul><li><b>Shell_Escaper v1.0:</b></li> <br>
@@ -208,12 +176,12 @@ Getting Command Injection through python subprocess Module <br>
  
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Accounts</p></b></body></html>
 
-<ul><i class="fab fa-linkedin"></i> <a href="https://linkedin.com/in/meshal-almansour/"> Meshal's Linkedin account</a></ul>
+<ul><i class="fab fa-linkedin"></i> <a href="https://linkedin.com/in/meshal-almansour/"> Meshal's Instagram account</a></ul>
 <ul><i class="fab fa-github"></i> <a href="https://github.com/mesh3l911/"> Meshal's Github account</a></ul> 
 <ul><i class="fab fa-twitter"></i> <a href="https://twitter.com/Mesh3l_911/"> Meshal's Twitter account</a></ul>
 <ul><i class="fas fa-spider"></i> <a href="https://www.exploit-db.com/?author=11089/"> Meshal's Exploit-db page</a></ul>
 <ul><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/channel/UCr94hhG1rz18RwATLexmQ-g/">Meshal's YouTube channel</a></ul> 
-<ul><i class="fab fa-medium"></i> <a href="https://mesh3l-911.medium.com/"> Meshal's Medium account</a></ul>
+<ul><i class="fab fa-medium"></i> <a href="https://0nlymohammed.pw/"> Meshal's Medium account</a></ul>
 <br>
  
  > <html><body><b><p style="color:#A52A2A;font-size:25px">Images</p></b></body></html>
@@ -226,7 +194,7 @@ Getting Command Injection through python subprocess Module <br>
 .mySlides {display:none;}
 </style>
 <body>
- <center>
+  <center>
 <div class="w3-content w3-display-container">
 
 <div class="w3-display-container mySlides">
