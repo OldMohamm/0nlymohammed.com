@@ -116,9 +116,9 @@ Well this is my first article about path traversal <br>
 <div class="w3-content w3-display-container">
 
 <div class="w3-display-container mySlides">
-  <img src="../../pics/ewptx.png" style="width:100%">
+  <img src="../../pics/CyberTalents.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    eWPTXv2
+    CyberTalents(2nd)-team
   </div>
 </div>
 
@@ -258,7 +258,7 @@ Well this is my first article about path traversal <br>
   <div class="w3-display-container mySlides">
   <img src="../../pics/CyberTalents(1st)-ind.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    CyberTalents(1st)-individually 
+    CyberTalents(2nd)-team 
   </div>
 </div>
     
