@@ -4,7 +4,7 @@
 
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Who Am I?</p></b></body></html>
 
-<b>Hello the one who read, My name is Mohammed or known as<b> ```0nlymohammed```. I am a CyberSecurity Specialist . I started learning about Network and Penetration Testing while I am in High School. Before High School, I had some experience with programming and Windows Server. I will be sharing here everything that I achieved in 2021. Most of my work will be based on Personal findings, HackerOne, intigriti, Portswigger, Bugcrowed, Bugv, CTF competitions and more.</b>
+<b>Hello, the one who read, My name is Mohammed or known as<b> ```0nlymohammed```. I am a CyberSecurity Specialist. I started learning about Network and Penetration Testing while I am in High School. Before High School, I had some experience with programming and Windows Server. I will be sharing here everything that I achieved in 2021. Most of my work will be based on Personal findings, HackerOne, intigriti, Portswigger, Bugcrowed, Bugv, CTF competitions and more.</b>
 <br>
 <br>
 
