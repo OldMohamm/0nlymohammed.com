@@ -123,224 +123,103 @@ Well this is my first article about path traversal <br>
 </div>
 
     <div class="w3-display-container mySlides">
-  <img src="../../pics/Apple HOF.png" style="width:100%">
+  <img src="../../pics/Facebook.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Apples's HOF
+    Facebook's HOF
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
-  <img src="../../pics/CVE-2021-3138.png" style="width:100%">
+  <img src="../../pics/Q2.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    CVE-2021-3138
+    Best Iraqi Hacker at HackerOne quarter 2
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
-  <img src="../../pics/CVE-2021-31760.png" style="width:100%">
+  <img src="../../pics/Q3.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    CVE-2021-31760
+    Best Iraqi Hacker at HackerOne quarter 3
   </div>
 </div>
 
  <div class="w3-display-container mySlides">
-  <img src="../../pics/CVE-2021-31761.png " style="width:100%">
+  <img src="../../pics/Q4.png " style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    CVE-2021-31761
+    Best Iraqi Hacker at HackerOne for the quarter 4
   </div>
 </div>
   
  <div class="w3-display-container mySlides">
-  <img src="../../pics/CVE-2021-31762.png " style="width:100%">
+  <img src="../../pics/2021.png " style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    CVE-2021-31762
+    Best Iraqi Hacker at HackerOne for 2021
   </div>
 </div>
 
   <div class="w3-display-container mySlides">
-  <img src="../../pics/webmin_ack.png " style="width:100%">
+  <img src="../../pics/microsoft.png " style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Webmin HOF.png
+    Microsoft Hall of Fame
   </div>
 </div>
  
  <div class="w3-display-container mySlides">
-  <img src="../../pics/gehof.png" style="width:100%">
+  <img src="../../pics/redhat.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    General_Electric HOF
+    Redhat HOF
   </div>
 </div>
  
  <div class="w3-display-container mySlides">
-  <img src="../../pics/7rs.jpeg" style="width:100%">
+  <img src="../../pics/un.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Ministry of National Guard
+    United Nations
   </div>
 </div>
  
  <div class="w3-display-container mySlides">
-  <img src="../../pics/KFUPM.jpeg" style="width:100%">
+  <img src="../../pics/2012.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    KFUPM
+    2012 rep less than 1 year
   </div>
 </div>
  
  <div class="w3-display-container mySlides">
-  <img src="../../pics/Shell1.jpeg" style="width:100%">
+  <img src="../../pics/DoD.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Shell
+    4th place at DoD HOF
   </div>
 </div>
  
  <div class="w3-display-container mySlides">
-  <img src="../../pics/Shell.jpeg " style="width:100%">
+  <img src="../../pics/Apple.png " style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Shell
+    Apple Hall of fame (soon)
   </div>
 </div>
- 
-  <div class="w3-display-container mySlides">
-  <img src="../../pics/ewpt.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    eWPT
-  </div>
-</div>
- 
- <div class="w3-display-container mySlides">
-  <img src="../../pics/Python-KFUPM.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Python
-  </div>
-</div>
- 
- <div class="w3-display-container mySlides">
-  <img src="../../pics/Principles of Project Management.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Principles of Project Management
-  </div>
-</div>
- 
- <div class="w3-display-container mySlides">
-  <img src="../../pics/cyb1.jpeg " style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    CyberHub2020-BloodHunters team
-  </div>
-</div>
- 
- <div class="w3-display-container mySlides">
-  <img src="../../pics/CyberHub_2.jpeg" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    CyberHub2021-BloodHunters team
-  </div>
-</div>
+  
     
-  <div class="w3-display-container mySlides">
-  <img src="../../pics/watad.jpeg" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Watad's CTF
-  </div>
-</div>
-
  <div class="w3-display-container mySlides">
-  <img src="../../pics/cybertalents_3.png" style="width:100%">
+  <img src="../../pics/winja.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    CyberTalents's CTF 2021
+    TOP 3 at Winja CTF | c0c0n 2021
   </div>
 </div>
     
  <div class="w3-display-container mySlides">
-  <img src="../../pics/IAU.png" style="width:100%">
+  <img src="../../pics/ctftime.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Saudi Aramco Chair's CTF 2021
+    Best Iraqi team at 2021
   </div>
 </div>
     
   <div class="w3-display-container mySlides">
-  <img src="../../pics/CyberTalents(1st)-ind.png" style="width:100%">
+  <img src="../../pics/iraq.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
     CyberTalents(2nd)-team 
   </div>
-</div>
-    
-  <div class="w3-display-container mySlides">
-  <img src="../../pics/ksa.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    CyberTalents(1st)-k$a team
-  </div>
-</div>
-  
- <div class="w3-display-container mySlides">
-  <img src="../../pics/Sub_Search.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Sub_Search
-  </div>
-</div>
-    
-<div class="w3-display-container mySlides">
-  <img src="../../pics/JS_Scrapper_Output.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    JS_Scrapper_Output
-  </div>
-</div>
-    
-  <div class="w3-display-container mySlides">
-  <img src="../../pics/sudo.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Shell_Escaper-Output
-  </div>
-</div>
-    
-  <div class="w3-display-container mySlides">
-  <img src="../../pics/sub.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    Sub_Analyser_Output
-  </div>
-</div>
-    
-  <div class="w3-display-container mySlides">
-  <img src="../../pics/sqli1.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    SQLi_Checker1.1_Output
-  </div>
-</div>
-    
-  <div class="w3-display-container mySlides">
-  <img src="../../pics/sqli0.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    SQLi_Checker1.0_Output
-  </div>
-</div>
-    
-  <div class="w3-display-container mySlides">
-  <img src="../../pics/twitter.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    My Twitter account
-  </div>
-</div>
-
-    
-   <div class="w3-display-container mySlides">
-  <img src="../../pics/github.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    My GitHub Page
-  </div>
-</div>
-
-<div class="w3-display-container mySlides">
-  <img src="../../pics/exploitdb.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    My Exploit-db Page
-  </div>
-</div>
-
-      <div class="w3-display-container mySlides">
-  <img src="../../pics/youtube.png" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    My YouTube Channel
-  </div>
-</div>
-    
-
+</div> 
 
 <button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
 <button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
