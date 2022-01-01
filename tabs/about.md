@@ -20,11 +20,6 @@ Security Researcher at EarthLink since (Nov,2021)(Part Time) </ul>
 <ul><li><b>intigriti</b></li> <br>
 Security Researcher at intigriti since (Aug,2021)(Part Time) </ul>
 
-
-<html><body><b><p style="color:#A52A2A;font-size:25px">EVENTS:</p></b></body></html>
-<ul><li><b>ATSO iraq 2021</b></li> <br>
-<ul><li><b>DevFest 2021 at University of Technology in Baghdad</b></li> <br>
-
 <html><body><b><p style="color:#A52A2A;font-size:25px">COURSES & CERTIFICATIONS:</p></b></body></html>
 <ul><li><b>NGINX Fundamentals: High Performance Servers</b></li> <br>
 </ul>
