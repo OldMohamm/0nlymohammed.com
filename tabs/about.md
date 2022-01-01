@@ -84,7 +84,7 @@ Among ( more than 200 teams )</ul>
 
 <html><body><b><p style="color:#A52A2A;font-size:25px">Articles</p></b></body></html>
  <ul><li><b>FatPipe Networks WARP Verison — Authorization Bypass:</b></li> <br>
- In This Article I explin how to attack the FatPipe Networks WARP</Article><br>
+ In This Article I explin how to attack the FatPipe Networks WARP<br>
 <a href="https://medium.com/@0nlymohammed/fatpipe-networks-warp-verison-authorization-bypass-3f7a756f21de">Authorization Bypass</a></ul>
 
 
