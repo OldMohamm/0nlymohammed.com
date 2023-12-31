@@ -125,7 +125,11 @@
     <button onclick="playAudio()">Play Audio</button>
     <button onclick="pauseAudio()">Pause Audio</button>
   </p>
-  
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var audio = document.getElementById('myAudio');
+        audio.play();
+        </script>
   <script>
     function playAudio() {
       var audio = document.getElementById("myAudio");
