@@ -92,8 +92,7 @@ Well this is my first article about path traversal <br>
 <a href="https://github.com/OldMohamm/ArabCoder-Project">Firewall</a></ul>
  
 <html><body><b><p style="color:#A52A2A;font-size:25px">Accounts</p></b></body></html>
-<ul><i class="fab fa-instagram"></i> <a href="https://Instagram.com/apsa"> 0nlymohammed's Instagram account</a></ul>
-<ul><i class="fab fa-github"></i> <a href="https://github.com/OldMohamm/"> 0nlymohammed's Github account</a></ul> 
+<ul><i class="fab fa-instagram"></i> <a href="https://Instagram.com/apsa"> 0nlymohammed's Instagram account</a></ul>> 
 <ul><i class="fab fa-twitter"></i> <a href="https://twitter.com/0nlymohammed/"> 0nlymohammed's Twitter account</a></ul> 
 <ul><i class="fab fa-medium"></i> <a href="https://medium.com/@0nlymohammed/"> 0nlymohammed's Medium account</a></ul>
 <br>
