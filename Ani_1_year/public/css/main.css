@@ -1,0 +1,196 @@
+@import url('http://fonts.googleapis.com/css?family=Bad+Script');
+.container-1 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.container-2 {
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+
+.container-3 {
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20 vh;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-color: #F9DCD6;
+    font-family: consolas;
+}
+
+h2 {
+    margin: 0;
+    font-family: 'Bad Script', cursive;
+    font-size: 5em;
+    color: #111;
+}
+
+h2 span {
+    margin: 0;
+    padding: 0;
+    animation: animate 6.75s linear infinite;
+}
+
+h2 span:nth-child(1) {
+    animation-delay: 0s;
+}
+
+h2 span:nth-child(2) {
+    animation-delay: 0.5s;
+}
+
+h2 span:nth-child(3) {
+    animation-delay: 1s;
+}
+
+h2 span:nth-child(4) {
+    animation-delay: 1.5s;
+}
+
+h2 span:nth-child(5) {
+    animation-delay: 2s;
+}
+
+h2 span:nth-child(6) {
+    animation-delay: 2.5s;
+}
+
+h2 span:nth-child(7) {
+    animation-delay: 3s;
+}
+
+h2 span:nth-child(8) {
+    animation-delay: 3.5s;
+}
+
+h2 span:nth-child(9) {
+    animation-delay: 4s;
+}
+
+h2 span:nth-child(10) {
+    animation-delay: 4.5s;
+}
+
+h2 span:nth-child(11) {
+    animation-delay: 5s;
+}
+
+h2 span:nth-child(12) {
+    animation-delay: 5.5s;
+}
+
+h2 span:nth-child(13) {
+    animation-delay: 6s;
+}
+
+@keyframes animate {
+    0%,
+    100% {
+        color: #F9DCD6;
+        filter: blur(2px);
+        text-shadow: 0 0 10px #ee3588, 0 0 20px #ee3588, 0 0 30px #ee3588, 0 0 40px #ee3588, 0 0 50px #ee3588, 0 0 60px #ee3588, 0 0 70px #ee3588, 0 0 80px #ee3588, 0 0 90px #ee3588, 0 0 100px #ee3588, 0 0 110px #ee3588, 0 0 120px #ee3588, 0 0 130px #ee3588;
+    }
+    5%,
+    95% {
+        color: #ee3588;
+        filter: blur(0px);
+        text-shadow: none;
+    }
+}
+
+a {
+    position: relative;
+    display: inline-block;
+    padding: 15px 30px;
+    color: #ee3588;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-decoration: none;
+    font-size: 24px;
+    overflow: hidden;
+    transition: 0.2s;
+}
+
+a:hover {
+    color: #aa034ed3;
+    background: #ee3588;
+    box-shadow: 0 0 10px #ee3588, 0 0 40px #ee3588, 0 0 80px #ee3588;
+    transition-delay: 1s;
+}
+
+a span {
+    position: absolute;
+    display: block;
+}
+
+a span:nth-child(1) {
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #ee3588);
+}
+
+a:hover span:nth-child(1) {
+    left: 100%;
+    transition: 1s;
+}
+
+a span:nth-child(2) {
+    top: -100%;
+    right: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(180deg, transparent, #ee3588);
+}
+
+a:hover span:nth-child(2) {
+    top: 100%;
+    transition: 1s;
+    transition-delay: 0.25s;
+}
+
+a span:nth-child(3) {
+    bottom: 0;
+    right: -100%;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(270deg, transparent, #ee3588);
+}
+
+a:hover span:nth-child(3) {
+    right: 100%;
+    transition: 1s;
+    transition-delay: 0.5s;
+}
+
+a span:nth-child(4) {
+    bottom: -100%;
+    left: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(360deg, transparent, #ee3588);
+}
+
+a:hover span:nth-child(4) {
+    bottom: 100%;
+    transition: 1s;
+    transition-delay: 0.75s;
+}
