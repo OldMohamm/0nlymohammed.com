@@ -1,10 +1,10 @@
 function buttonYes() {
-    alert('YAYYYYYY')
+    alert('فرحتتتتتتتتت 😂😂😂😂😂😂🤍🤍🤍🤍')
 }
 function buttonNo() {
     document.getElementById("yes").style.width = "200%";
     document.getElementById("no").remove()
-    alert('PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE')
+    alert(' ): قهرتيني ):')
 }
 
 // Click Me! button
