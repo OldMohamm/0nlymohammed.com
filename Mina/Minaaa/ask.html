@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تصيرين عالمي</title>
+    <link rel="stylesheet" href="css/valentine.css">
+</head>
+<body>
+    <div id="valentineQuestion"><b>تضلين حبي الابدي؟</b></div>
+    <div class="container">
+        <button class="answerButton" id="yesButton" onclick="location.href='thankyou.html'">
+            اي رح اصير حبك الابدي 💛
+        </button>
+        <button class="answerButton" id="noButton">لا؟</button>
+    </div>
+    <br>
+    <img src="seulgi.gif" alt="cat asking question" class="responsive">
+
+    <script>
+        var noButtonTexts = [
+            "معقولة؟ شلون كلبج انطاج",
+            "معقولة!!!",
+            "متأكدة؟؟",
+            "ليش سويتي هيجي؟",
+            "همممم",
+            "ارجعي فكري",
+            "كلتلج ارجعي فكريييي",
+            "متونسة من هيجي تضوجيني مو؟",
+            "كافييي تدوسين لااا!",
+            "مو صوجج صوج الي يحبج",
+            "لج حتى الدكمة تعبت بس كولي اي لخاطري"
+        ];
+        var noButtonClickCount = 0;
+
+        document.getElementById("noButton").addEventListener("click", function () {
+            var noButton = document.getElementById("noButton");
+
+            noButton.textContent = noButtonTexts[noButtonClickCount];
+            
+            if (noButtonClickCount < noButtonTexts.length - 1) {
+                noButtonClickCount++;
+                
+                var container = document.querySelector('.container');
+                var containerRect = container.getBoundingClientRect();
+                var maxX = containerRect.width - noButton.offsetWidth;
+                var maxY = containerRect.height - noButton.offsetHeight;
+
+                var randomX = Math.floor(Math.random() * maxX);
+                var randomY = Math.floor(Math.random() * maxY);
+
+                noButton.style.position = 'absolute';
+                noButton.style.left = randomX + 'px';
+                noButton.style.top = randomY + 'px';
+            }
+        });
+    </script>
+</body>
+</html>
